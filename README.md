@@ -81,25 +81,25 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Acquisition
 
-* [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,115 | 🐛 170 | 🌐 Python | 📅 2026-08-14 - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
-* [SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,151 | 🐛 159 | 🌐 JavaScript | 📅 2026-08-05 - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
-* [monolith](https://github.com/Y2Z/monolith) ⭐ 15,420 | 🐛 72 | 🌐 Rust | 📅 2026-05-25 - CLI tool to save a web page as a single HTML file. *(Stable)*
+* [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,118 | 🐛 170 | 🌐 Python | 📅 2026-08-15 - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
+* [SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,148 | 🐛 159 | 🌐 JavaScript | 📅 2026-08-05 - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
+* [monolith](https://github.com/Y2Z/monolith) ⭐ 15,419 | 🐛 72 | 🌐 Rust | 📅 2026-05-25 - CLI tool to save a web page as a single HTML file. *(Stable)*
 * [DiskerNet](https://github.com/DO-SAY-GO/dn) ⭐ 3,905 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-09 - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
-* [Heritrix](https://github.com/internetarchive/heritrix3/wiki) ⭐ 3,296 | 🐛 36 | 🌐 Java | 📅 2026-08-05 - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
-  * [Heritrix Q\&A](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) ⭐ 3,296 | 🐛 36 | 🌐 Java | 📅 2026-08-05 - A discussion forum for asking questions and getting answers about using Heritrix.
+* [Heritrix](https://github.com/internetarchive/heritrix3/wiki) ⭐ 3,297 | 🐛 36 | 🌐 Java | 📅 2026-08-05 - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
+  * [Heritrix Q\&A](https://github.com/internetarchive/heritrix3/discussions/categories/q-a) ⭐ 3,297 | 🐛 36 | 🌐 Java | 📅 2026-08-05 - A discussion forum for asking questions and getting answers about using Heritrix.
   * [Heritrix Walkthrough](https://github.com/web-archive-group/heritrix-walkthrough) ⭐ 10 | 🐛 2 | 🌐 Shell | 📅 2016-06-10 *(In Development)*
-* [Wayback](https://github.com/wabarc/wayback) ⭐ 2,224 | 🐛 59 | 🌐 Go | 📅 2026-08-13 - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
+* [Wayback](https://github.com/wabarc/wayback) ⭐ 2,225 | 🐛 60 | 🌐 Go | 📅 2026-08-14 - A toolkit for snapshot webpage to Internet Archive, archive.today, IPFS and beyond. *(Stable)*
 * [grab-site](https://github.com/ArchiveTeam/grab-site) ⭐ 1,605 | 🐛 104 | 🌐 Python | 📅 2025-05-23 - The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns. *(Stable)*
 * [twarc](https://github.com/DocNow/twarc) ⭐ 1,393 | 🐛 47 | 🌐 Python | 📅 2025-10-31 - A command line tool and Python library for archiving Twitter JSON data. *(Stable)*
-* [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) ⭐ 1,107 | 🐛 146 | 🌐 TypeScript | 📅 2026-08-13 - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. *(Stable)*
-* [Auto Archiver](https://github.com/bellingcat/auto-archiver) ⭐ 1,106 | 🐛 26 | 🌐 Python | 📅 2026-08-07 - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the [article about Auto Archiver on bellingcat.com](https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/).
+* [Browsertrix Crawler](https://github.com/webrecorder/browsertrix-crawler) ⭐ 1,108 | 🐛 146 | 🌐 TypeScript | 📅 2026-08-14 - A Chromium based high-fidelity crawling system, designed to run a complex, customizable browser-based crawl in a single Docker container. *(Stable)*
+* [Auto Archiver](https://github.com/bellingcat/auto-archiver) ⭐ 1,107 | 🐛 26 | 🌐 Python | 📅 2026-08-07 - Python script to automatically archive social media posts, videos, and images from a Google Sheets document. Read the [article about Auto Archiver on bellingcat.com](https://www.bellingcat.com/resources/2022/09/22/preserve-vital-online-content-with-bellingcats-auto-archiver-tool/).
 * [Brozzler](https://github.com/internetarchive/brozzler) ⭐ 813 | 🐛 63 | 🌐 Python | 📅 2026-07-27 - A distributed web crawler (爬虫) that uses a real browser (Chrome or Chromium) to fetch pages and embedded urls and to extract links. *(Stable)*
 * [Wpull](https://github.com/ArchiveTeam/wpull) ⭐ 613 | 🐛 205 | 🌐 HTML | 📅 2024-04-29 - A Wget-compatible (or remake/clone/replacement/alternative) web downloader and crawler. *(Stable)*
 * [Waybackpy](https://github.com/akamhy/waybackpy) ⭐ 602 | 🐛 21 | 🌐 Python | 📅 2024-02-26 -  Wayback Machine Save, CDX and availability API interface in Python and a command-line tool  *(Stable)*
 * [Warcprox](https://github.com/internetarchive/warcprox) ⭐ 461 | 🐛 32 | 🌐 Python | 📅 2026-06-17 - WARC-writing MITM HTTP/S proxy. *(Stable)*
 * [archivenow](https://github.com/oduwsdl/archivenow) ⭐ 434 | 🐛 17 | 🌐 Python | 📅 2024-01-23 - A [Python library](http://ws-dl.blogspot.com/2017/02/2017-02-22-archive-now-archivenow.html) to push web resources into on-demand web archives. *(Stable)*
 * [WAIL](https://github.com/machawk1/wail) ⭐ 400 | 🐛 184 | 🌐 Roff | 📅 2026-06-19 - A graphical user interface (GUI) atop multiple web archiving tools intended to be used as an easy way for anyone to preserve and replay web pages; [Python](https://machawk1.github.io/wail/), [Electron](https://github.com/n0tan3rd/wail) ⭐ 128 | 🐛 34 | 🌐 JavaScript | 📅 2019-02-03. *(Stable)*
-* [Obelisk](https://github.com/go-shiori/obelisk) ⭐ 319 | 🐛 10 | 🌐 Go | 📅 2026-02-01 - Go package and CLI tool for saving web page as single HTML file. *(Stable)*
+* [Obelisk](https://github.com/go-shiori/obelisk) ⭐ 320 | 🐛 10 | 🌐 Go | 📅 2026-02-01 - Go package and CLI tool for saving web page as single HTML file. *(Stable)*
 * [freeze-dry](https://github.com/WebMemex/freeze-dry) ⭐ 305 | 🐛 21 | 🌐 TypeScript | 📅 2022-09-18 - JavaScript library to turn page into static, self-contained HTML document; useful for browser extensions. *(In Development)*
 * [Scoop](https://github.com/harvard-lil/scoop) ⭐ 209 | 🐛 15 | 🌐 JavaScript | 📅 2025-09-03 - High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web. *(Stable)*
 * [Squidwarc](https://github.com/N0taN3rd/Squidwarc) ⭐ 178 | 🐛 11 | 🌐 JavaScript | 📅 2020-05-19 - An [open source, high-fidelity, page interacting](http://ws-dl.blogspot.com/2017/07/2017-07-24-replacing-heritrix-with.html) archival crawler that uses Chrome or Chrome Headless directly. *(In Development)*
@@ -162,8 +162,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 <!--lint ignore double-link-->
 
-* [Internet Archive Library](https://github.com/jjjake/internetarchive) ⭐ 1,896 | 🐛 101 | 🌐 Python | 📅 2026-07-24 - A command line tool and Python library for interacting directly with <!--lint ignore double-link-->[archive.org](https://archive.org). (Python). *(Stable)*
-* [wikiteam](https://github.com/WikiTeam/wikiteam) ⭐ 860 | 🐛 172 | 🌐 Python | 📅 2026-01-10 - Tools for downloading and preserving wikis. *(Stable)*
+* [Internet Archive Library](https://github.com/jjjake/internetarchive) ⭐ 1,897 | 🐛 101 | 🌐 Python | 📅 2026-07-24 - A command line tool and Python library for interacting directly with <!--lint ignore double-link-->[archive.org](https://archive.org). (Python). *(Stable)*
+* [wikiteam](https://github.com/WikiTeam/wikiteam) ⭐ 859 | 🐛 172 | 🌐 Python | 📅 2026-01-10 - Tools for downloading and preserving wikis. *(Stable)*
 * [warcdb](https://github.com/florents-Tselai/warcdb) ⭐ 407 | 🐛 9 | 🌐 Python | 📅 2024-07-13 - A command line utility (Python) for importing WARC files into a SQLite database. *(Stable)*
 * [MemGator](https://github.com/oduwsdl/MemGator) ⭐ 80 | 🐛 48 | 🌐 Go | 📅 2026-04-09 - A Memento Aggregator CLI and Server (Golang). *(Stable)*
 * [webarchive-indexing](https://github.com/ikreymer/webarchive-indexing) ⭐ 46 | 🐛 5 | 🌐 Python | 📅 2017-12-04 - Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.
@@ -215,8 +215,8 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Quality Assurance
 
-* [FlameShot](https://github.com/flameshot-org/flameshot) ⭐ 30,619 | 🐛 692 | 🌐 C++ | 📅 2026-08-12 - Screen capture and annotation on Ubuntu.
-* [xDoTool](https://github.com/jordansissel/xdotool) ⭐ 3,838 | 🐛 323 | 🌐 C | 📅 2026-06-30 - Click automation on Ubuntu.
+* [FlameShot](https://github.com/flameshot-org/flameshot) ⭐ 30,625 | 🐛 694 | 🌐 C++ | 📅 2026-08-12 - Screen capture and annotation on Ubuntu.
+* [xDoTool](https://github.com/jordansissel/xdotool) ⭐ 3,837 | 🐛 323 | 🌐 C | 📅 2026-06-30 - Click automation on Ubuntu.
 * [Chrome Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Browser extension: a link checker with more options.
 * [Chrome link checker](https://chromewebstore.google.com/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) - Browser extension: basic link checker.
 * [Chrome link gopher](https://chromewebstore.google.com/detail/bpjdkodgnbfalgghnbeggfbfjpcfamkf/publish-accepted?hl=en-US\&gl=US) - Browser extension: link harvester on a page.
@@ -236,7 +236,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Other Awesome Lists
 
-* [Web Archiving Community](https://github.com/ArchiveBox/ArchiveBox/wiki/Web-Archiving-Community) ⭐ 28,115 | 🐛 170 | 🌐 Python | 📅 2026-08-14
+* [Web Archiving Community](https://github.com/ArchiveBox/ArchiveBox/wiki/Web-Archiving-Community) ⭐ 28,118 | 🐛 170 | 🌐 Python | 📅 2026-08-15
 * [Awesome Memento](https://github.com/machawk1/awesome-memento) ⭐ 121 | 🐛 3 | 📅 2026-05-22
 * [The WARC Ecosystem](http://www.archiveteam.org/index.php?title=The_WARC_Ecosystem)
 * [The Web Crawl section of COPTR](http://coptr.digipres.org/Category:Web_Crawl)
@@ -283,7 +283,7 @@ The intention is that we only list services that allow web archives to be export
 
 ### Self-hostable, Open Source
 
-* [Browsertrix](https://webrecorder.net/browsertrix/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix> ⭐ 458 | 🐛 309 | 🌐 TypeScript | 📅 2026-08-13.
+* [Browsertrix](https://webrecorder.net/browsertrix/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix> ⭐ 458 | 🐛 310 | 🌐 TypeScript | 📅 2026-08-14.
 * [Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
 
 ### Hosted, Closed Source
@@ -308,4 +308,4 @@ This is a list of publicly available WARCs, Wayback Machines, CDX API endpoints,
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
