@@ -115,7 +115,7 @@
             "last_commit": "2026-08-18T01:57:28Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28129
+            "stars": 28132
           }
         },
         {
@@ -129,7 +129,7 @@
             "last_commit": "2026-08-05T14:41:22Z",
             "owner": "gildas-lormeau",
             "repo": "SingleFile",
-            "stars": 22165
+            "stars": 22174
           }
         },
         {
@@ -143,7 +143,7 @@
             "last_commit": "2026-05-25T19:56:03Z",
             "owner": "Y2Z",
             "repo": "monolith",
-            "stars": 15428
+            "stars": 15435
           }
         },
         {
@@ -173,7 +173,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "Java",
-                "last_commit": "2026-08-05T03:09:02Z",
+                "last_commit": "2026-08-19T01:50:11Z",
                 "owner": "internetarchive",
                 "repo": "heritrix3",
                 "stars": 3299
@@ -197,7 +197,7 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-05T03:09:02Z",
+            "last_commit": "2026-08-19T01:50:11Z",
             "owner": "internetarchive",
             "repo": "heritrix3",
             "stars": 3299
@@ -253,10 +253,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T23:21:42Z",
+            "last_commit": "2026-08-19T02:00:45Z",
             "owner": "webrecorder",
             "repo": "browsertrix-crawler",
-            "stars": 1110
+            "stars": 1111
           }
         },
         {
@@ -267,7 +267,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-07T07:08:17Z",
+            "last_commit": "2026-08-18T10:40:29Z",
             "owner": "bellingcat",
             "repo": "auto-archiver",
             "stars": 1107
@@ -312,7 +312,7 @@
             "last_commit": "2024-02-26T00:15:49Z",
             "owner": "akamhy",
             "repo": "waybackpy",
-            "stars": 602
+            "stars": 603
           }
         },
         {
@@ -396,7 +396,7 @@
             "last_commit": "2025-09-03T18:27:26Z",
             "owner": "harvard-lil",
             "repo": "scoop",
-            "stars": 209
+            "stars": 210
           }
         },
         {
@@ -910,7 +910,7 @@
             "last_commit": "2024-10-11T09:28:20Z",
             "owner": "chfoo",
             "repo": "warcat",
-            "stars": 166
+            "stars": 165
           }
         },
         {
@@ -921,7 +921,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-07-20T10:46:36Z",
+            "last_commit": "2026-08-18T08:25:08Z",
             "owner": "chatnoir-eu",
             "repo": "chatnoir-resiliparse",
             "stars": 144
@@ -1109,10 +1109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-07-03T02:56:39Z",
+            "last_commit": "2026-08-18T18:42:45Z",
             "owner": "commoncrawl",
             "repo": "cc-notebooks",
-            "stars": 67
+            "stars": 68
           }
         },
         {
@@ -1171,10 +1171,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-18T00:47:45Z",
+            "last_commit": "2026-08-18T20:50:55Z",
             "owner": "flameshot-org",
             "repo": "flameshot",
-            "stars": 30637
+            "stars": 30639
           }
         },
         {
@@ -1213,7 +1213,7 @@
             "last_commit": "2026-08-18T01:57:28Z",
             "owner": "ArchiveBox",
             "repo": "ArchiveBox",
-            "stars": 28129
+            "stars": 28132
           }
         },
         {
@@ -1240,7 +1240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T03:25:04.008Z",
+    "last_updated": "2026-08-19T03:27:09.155Z",
     "original_repository": "iipc/awesome-web-archiving",
     "original_repository_sha": "96c9e50be561ac137a2e7d7f88b53860783eb939",
     "enhanced_repository": "enhansome/enhansome-web-archiving",
