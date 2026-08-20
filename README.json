@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-19T12:57:58Z",
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28136
+                "stars": 28144
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-05T14:41:22Z",
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22182
+                "stars": 22189
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2026-05-25T19:56:03Z",
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15437
+                "stars": 15438
               }
             },
             {
@@ -185,7 +185,7 @@
                     "last_commit": "2026-08-19T01:50:11Z",
                     "owner": "internetarchive",
                     "repo": "heritrix3",
-                    "stars": 3299
+                    "stars": 3300
                   }
                 },
                 {
@@ -211,7 +211,7 @@
                 "last_commit": "2026-08-19T01:50:11Z",
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3299
+                "stars": 3300
               }
             },
             {
@@ -268,7 +268,7 @@
                 "archived": false,
                 "id": 309258998,
                 "language": "TypeScript",
-                "last_commit": "2026-08-19T02:00:45Z",
+                "last_commit": "2026-08-20T02:13:23Z",
                 "owner": "webrecorder",
                 "repo": "browsertrix-crawler",
                 "stars": 1114
@@ -286,7 +286,7 @@
                 "last_commit": "2026-08-18T10:40:29Z",
                 "owner": "bellingcat",
                 "repo": "auto-archiver",
-                "stars": 1107
+                "stars": 1108
               }
             },
             {
@@ -298,7 +298,7 @@
                 "archived": false,
                 "id": 39043260,
                 "language": "Python",
-                "last_commit": "2026-07-27T23:55:31Z",
+                "last_commit": "2026-08-20T01:11:02Z",
                 "owner": "internetarchive",
                 "repo": "brozzler",
                 "stars": 813
@@ -331,7 +331,7 @@
                 "last_commit": "2024-02-26T00:15:49Z",
                 "owner": "akamhy",
                 "repo": "waybackpy",
-                "stars": 603
+                "stars": 604
               }
             },
             {
@@ -934,7 +934,7 @@
                 "archived": false,
                 "id": 5430433,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:23:33Z",
+                "last_commit": "2026-08-19T23:59:14Z",
                 "owner": "jjjake",
                 "repo": "internetarchive",
                 "stars": 1896
@@ -1513,7 +1513,7 @@
                 "last_commit": "2026-08-18T20:50:55Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30641
+                "stars": 30646
               }
             },
             {
@@ -1556,7 +1556,7 @@
                 "last_commit": "2026-08-19T12:57:58Z",
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28136
+                "stars": 28144
               }
             },
             {
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:59:51.771Z",
+    "last_updated": "2026-08-20T03:26:55.347Z",
     "original_repository": "iipc/awesome-web-archiving",
     "original_repository_id": 94536097,
     "original_repository_sha": "96c9e50be561ac137a2e7d7f88b53860783eb939",
