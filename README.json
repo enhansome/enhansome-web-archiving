@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-19T12:57:58Z",
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28144
+                "stars": 28148
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-05T14:41:22Z",
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22189
+                "stars": 22201
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2026-05-25T19:56:03Z",
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15438
+                "stars": 15439
               }
             },
             {
@@ -182,7 +182,7 @@
                     "archived": false,
                     "id": 2623406,
                     "language": "Java",
-                    "last_commit": "2026-08-19T01:50:11Z",
+                    "last_commit": "2026-08-21T00:31:09Z",
                     "owner": "internetarchive",
                     "repo": "heritrix3",
                     "stars": 3300
@@ -208,7 +208,7 @@
                 "archived": false,
                 "id": 2623406,
                 "language": "Java",
-                "last_commit": "2026-08-19T01:50:11Z",
+                "last_commit": "2026-08-21T00:31:09Z",
                 "owner": "internetarchive",
                 "repo": "heritrix3",
                 "stars": 3300
@@ -241,7 +241,7 @@
                 "last_commit": "2025-05-23T09:57:06Z",
                 "owner": "ArchiveTeam",
                 "repo": "grab-site",
-                "stars": 1606
+                "stars": 1608
               }
             },
             {
@@ -268,7 +268,7 @@
                 "archived": false,
                 "id": 309258998,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T02:13:23Z",
+                "last_commit": "2026-08-21T02:04:10Z",
                 "owner": "webrecorder",
                 "repo": "browsertrix-crawler",
                 "stars": 1114
@@ -298,10 +298,10 @@
                 "archived": false,
                 "id": 39043260,
                 "language": "Python",
-                "last_commit": "2026-08-20T01:11:02Z",
+                "last_commit": "2026-08-20T17:54:43Z",
                 "owner": "internetarchive",
                 "repo": "brozzler",
-                "stars": 813
+                "stars": 814
               }
             },
             {
@@ -331,7 +331,7 @@
                 "last_commit": "2024-02-26T00:15:49Z",
                 "owner": "akamhy",
                 "repo": "waybackpy",
-                "stars": 604
+                "stars": 602
               }
             },
             {
@@ -892,7 +892,7 @@
                 "last_commit": "2025-03-31T12:53:39Z",
                 "owner": "nlnwa",
                 "repo": "gowarcserver",
-                "stars": 18
+                "stars": 17
               }
             },
             {
@@ -934,10 +934,10 @@
                 "archived": false,
                 "id": 5430433,
                 "language": "Python",
-                "last_commit": "2026-08-19T23:59:14Z",
+                "last_commit": "2026-08-21T01:24:03Z",
                 "owner": "jjjake",
                 "repo": "internetarchive",
-                "stars": 1896
+                "stars": 1895
               }
             },
             {
@@ -952,7 +952,7 @@
                 "last_commit": "2026-01-10T09:59:38Z",
                 "owner": "WikiTeam",
                 "repo": "wikiteam",
-                "stars": 860
+                "stars": 861
               }
             },
             {
@@ -1042,7 +1042,7 @@
                 "last_commit": "2025-07-30T16:18:51Z",
                 "owner": "harvard-lil",
                 "repo": "warcbench",
-                "stars": 22
+                "stars": 23
               }
             },
             {
@@ -1513,7 +1513,7 @@
                 "last_commit": "2026-08-18T20:50:55Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30646
+                "stars": 30656
               }
             },
             {
@@ -1528,7 +1528,7 @@
                 "last_commit": "2026-06-30T00:32:20Z",
                 "owner": "jordansissel",
                 "repo": "xdotool",
-                "stars": 3837
+                "stars": 3839
               }
             }
           ],
@@ -1556,7 +1556,7 @@
                 "last_commit": "2026-08-19T12:57:58Z",
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28144
+                "stars": 28148
               }
             },
             {
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T03:26:55.347Z",
+    "last_updated": "2026-08-21T03:32:13.230Z",
     "original_repository": "iipc/awesome-web-archiving",
     "original_repository_id": 94536097,
     "original_repository_sha": "96c9e50be561ac137a2e7d7f88b53860783eb939",
