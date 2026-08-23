@@ -120,7 +120,7 @@
                 "last_commit": "2026-08-19T12:57:58Z",
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28156
+                "stars": 28163
               }
             },
             {
@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-05T14:41:22Z",
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22207
+                "stars": 22211
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-14T17:16:37Z",
                 "owner": "wabarc",
                 "repo": "wayback",
-                "stars": 2225
+                "stars": 2226
               }
             },
             {
@@ -241,7 +241,7 @@
                 "last_commit": "2025-05-23T09:57:06Z",
                 "owner": "ArchiveTeam",
                 "repo": "grab-site",
-                "stars": 1608
+                "stars": 1607
               }
             },
             {
@@ -508,7 +508,7 @@
                 "archived": false,
                 "id": 302261532,
                 "language": "TypeScript",
-                "last_commit": "2026-08-17T19:48:38Z",
+                "last_commit": "2026-08-22T03:45:53Z",
                 "owner": "wabarc",
                 "repo": "cairn",
                 "stars": 51
@@ -660,7 +660,7 @@
                 "last_commit": "2026-05-18T15:29:40Z",
                 "owner": "medialab",
                 "repo": "hyphe",
-                "stars": 385
+                "stars": 386
               }
             },
             {
@@ -792,7 +792,7 @@
                 "archived": false,
                 "id": 355937385,
                 "language": "Go",
-                "last_commit": "2026-07-17T00:22:31Z",
+                "last_commit": "2026-08-22T03:31:23Z",
                 "owner": "wabarc",
                 "repo": "playback",
                 "stars": 13
@@ -810,7 +810,7 @@
                 "last_commit": "2026-08-10T09:48:01Z",
                 "owner": "nabertronic",
                 "repo": "pastpage",
-                "stars": 4
+                "stars": 5
               }
             }
           ],
@@ -1349,7 +1349,7 @@
                 "last_commit": "2022-01-07T17:20:07Z",
                 "owner": "emmadickson",
                 "repo": "unwarcit",
-                "stars": 13
+                "stars": 14
               }
             },
             {
@@ -1510,10 +1510,10 @@
                 "archived": false,
                 "id": 90902132,
                 "language": "C++",
-                "last_commit": "2026-08-18T20:50:55Z",
+                "last_commit": "2026-08-22T15:44:25Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30664
+                "stars": 30671
               }
             },
             {
@@ -1528,7 +1528,7 @@
                 "last_commit": "2026-06-30T00:32:20Z",
                 "owner": "jordansissel",
                 "repo": "xdotool",
-                "stars": 3839
+                "stars": 3840
               }
             }
           ],
@@ -1556,7 +1556,7 @@
                 "last_commit": "2026-08-19T12:57:58Z",
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28156
+                "stars": 28163
               }
             },
             {
@@ -1584,7 +1584,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T03:23:07.225Z",
+    "last_updated": "2026-08-23T03:31:46.184Z",
     "original_repository": "iipc/awesome-web-archiving",
     "original_repository_id": 94536097,
     "original_repository_sha": "96c9e50be561ac137a2e7d7f88b53860783eb939",
