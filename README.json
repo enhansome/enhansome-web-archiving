@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-05T14:41:22Z",
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22226
+                "stars": 22228
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2026-08-09T11:12:16Z",
                 "owner": "DO-SAY-GO",
                 "repo": "tdf",
-                "stars": 3906
+                "stars": 3907
               }
             },
             {
@@ -226,7 +226,7 @@
                 "last_commit": "2026-08-14T17:16:37Z",
                 "owner": "wabarc",
                 "repo": "wayback",
-                "stars": 2227
+                "stars": 2228
               }
             },
             {
@@ -346,7 +346,7 @@
                 "last_commit": "2026-06-17T03:25:51Z",
                 "owner": "internetarchive",
                 "repo": "warcprox",
-                "stars": 461
+                "stars": 462
               }
             },
             {
@@ -593,7 +593,7 @@
                 "last_commit": "2026-04-10T22:52:02Z",
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1691
+                "stars": 1692
               }
             },
             {
@@ -1199,7 +1199,7 @@
                 "last_commit": "2026-06-10T21:12:28Z",
                 "owner": "webrecorder",
                 "repo": "warcio",
-                "stars": 468
+                "stars": 469
               }
             },
             {
@@ -1513,7 +1513,7 @@
                 "last_commit": "2026-08-22T15:44:25Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30678
+                "stars": 30680
               }
             },
             {
@@ -1535,6 +1535,28 @@
           "description": null,
           "node_type": "group",
           "title": "Quality Assurance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Zotero Robust Links Extension",
+              "description": "A Zotero extension that submits to and reads from web archives. Source on GitHub. Supercedes leonkt/zotero-memento.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381167163,
+                "language": "JavaScript",
+                "last_commit": "2022-05-10T17:27:20Z",
+                "owner": "lanl",
+                "repo": "Zotero-Robust-Links-Extension",
+                "stars": 22
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Curation"
         }
       ],
       "title": "Tools & Software"
@@ -1581,10 +1603,59 @@
         }
       ],
       "title": "Community Resources"
+    },
+    {
+      "description": "The intention is that we only list services that allow web archives to be exported in standard formats (WARC or WACZ). But this is not an endorsement of these services, and readers should check and evaluate these options based on their needs.",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Browsertrix",
+              "description": "From Webrecorder, source available at https://github.com/webrecorder/browsertrix.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 381178875,
+                "language": "TypeScript",
+                "last_commit": "2026-08-22T18:35:33Z",
+                "owner": "webrecorder",
+                "repo": "browsertrix",
+                "stars": 461
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Self-hostable, Open Source"
+        }
+      ],
+      "title": "Web Archiving Service Providers"
+    },
+    {
+      "description": "This is a list of publicly available WARCs, Wayback Machines, CDX API endpoints, other indexes, and so on.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dead-Web Index",
+          "description": "Reachability labels (alive / blocked / dead) for the top 10 million domains, two probe arms (polite HTTP and a browser TLS fingerprint), 2026. CC BY 4.0, JSONL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1269259475,
+            "language": null,
+            "last_commit": "2026-07-28T04:30:14Z",
+            "owner": "Crawlora-org",
+            "repo": "dead-web-index-data",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Public Data"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T03:33:50.101Z",
+    "last_updated": "2026-08-24T14:06:56.864Z",
     "original_repository": "iipc/awesome-web-archiving",
     "original_repository_id": 94536097,
     "original_repository_sha": "96c9e50be561ac137a2e7d7f88b53860783eb939",
