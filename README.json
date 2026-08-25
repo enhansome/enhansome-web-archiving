@@ -135,7 +135,7 @@
                 "last_commit": "2026-08-05T14:41:22Z",
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22233
+                "stars": 22236
               }
             },
             {
@@ -672,7 +672,7 @@
                 "archived": false,
                 "id": 81312331,
                 "language": "Java",
-                "last_commit": "2026-07-23T08:08:54Z",
+                "last_commit": "2026-08-25T05:47:33Z",
                 "owner": "netarchivesuite",
                 "repo": "solrwayback",
                 "stars": 146
@@ -1513,7 +1513,7 @@
                 "last_commit": "2026-08-22T15:44:25Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30686
+                "stars": 30687
               }
             },
             {
@@ -1621,7 +1621,7 @@
                 "last_commit": "2026-08-24T22:30:15Z",
                 "owner": "webrecorder",
                 "repo": "browsertrix",
-                "stars": 462
+                "stars": 463
               }
             }
           ],
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T03:28:03.454Z",
+    "last_updated": "2026-08-25T05:57:08.000Z",
     "original_repository": "iipc/awesome-web-archiving",
     "original_repository_id": 94536097,
     "original_repository_sha": "96c9e50be561ac137a2e7d7f88b53860783eb939",

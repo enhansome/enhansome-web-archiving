@@ -82,7 +82,7 @@ This list of tools and software is intended to briefly describe some of the most
 ### Acquisition
 
 * [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,169 | 🐛 172 | 🌐 Python | 📅 2026-08-24 - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
-* [SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,233 | 🐛 165 | 🌐 JavaScript | 📅 2026-08-05 - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
+* [SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,236 | 🐛 165 | 🌐 JavaScript | 📅 2026-08-05 - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
 * [monolith](https://github.com/Y2Z/monolith) ⭐ 15,447 | 🐛 73 | 🌐 Rust | 📅 2026-05-25 - CLI tool to save a web page as a single HTML file. *(Stable)*
 * [DiskerNet](https://github.com/DO-SAY-GO/dn) ⭐ 3,907 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-09 - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
 * [Heritrix](https://github.com/internetarchive/heritrix3/wiki) ⭐ 3,303 | 🐛 37 | 🌐 Java | 📅 2026-08-25 - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
@@ -136,7 +136,7 @@ This list of tools and software is intended to briefly describe some of the most
 ### Search & Discovery
 
 * [hyphe](https://github.com/medialab/hyphe) ⭐ 386 | 🐛 56 | 🌐 JavaScript | 📅 2026-05-18 - A webcrawler built for research uses with a graphical user interface in order to build web corpuses made of lists of web actors and maps of links between them. *(Stable)*
-* [SolrWayback](https://github.com/netarchivesuite/solrwayback) ⭐ 146 | 🐛 64 | 🌐 Java | 📅 2026-07-23 - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. [SolrWayback 4 Bundle release](https://github.com/netarchivesuite/solrwayback/releases) ⭐ 146 | 🐛 64 | 🌐 Java | 📅 2026-07-23 contains all the software and dependencies in an out-of-the box solution that is easy to install.
+* [SolrWayback](https://github.com/netarchivesuite/solrwayback) ⭐ 146 | 🐛 64 | 🌐 Java | 📅 2026-08-25 - A backend Java and frontend VUE JS project with freetext search and a build in playback engine. Require Warc files has been index with the Warc-Indexer. The web application also has a wide range of data visualization tools and data export tools that can be used on the whole webarchive. [SolrWayback 4 Bundle release](https://github.com/netarchivesuite/solrwayback/releases) ⭐ 146 | 🐛 64 | 🌐 Java | 📅 2026-08-25 contains all the software and dependencies in an out-of-the box solution that is easy to install.
 * [webarchive-discovery](https://github.com/ukwa/webarchive-discovery) ⭐ 133 | 🐛 93 | 🌐 Java | 📅 2025-11-21 - WARC and ARC full-text indexing and discovery tools, with a number of associated tools capable of using the index shown below. *(Stable)*
 * Other possible options for builting a front-end are listed on in the `webarchive-discovery` wiki, [here](https://github.com/ukwa/webarchive-discovery/wiki/Front-ends) ⭐ 133 | 🐛 93 | 🌐 Java | 📅 2025-11-21.
 * [Mink](https://github.com/machawk1/Mink) ⭐ 58 | 🐛 95 | 🌐 JavaScript | 📅 2025-08-27 - A [Google Chrome](https://www.google.com/intl/en/chrome/) extension for querying Memento aggregators while browsing and integrating live-archived web navigation. *(Stable)*
@@ -156,7 +156,7 @@ This list of tools and software is intended to briefly describe some of the most
 * [ArchiveTools](https://github.com/recrm/ArchiveTools) ⭐ 81 | 🐛 2 | 🌐 Python | 📅 2022-07-06 - Collection of tools to extract and interact with WARC files (Python).
 * [har2warc](https://github.com/webrecorder/har2warc) ⭐ 55 | 🐛 3 | 🌐 Python | 📅 2018-10-21 - Convert HTTP Archive (HAR) -> Web Archive (WARC) format (Python).
 * [duckdb-web-archive-cdx](https://github.com/midwork-finds-jobs/duckdb-web-archive) ⭐ 22 | 🐛 2 | 🌐 C++ | 📅 2026-06-27 - DuckDB extension to query the Internet Archive and CommonCrawl CDX APIs directly from SQL. *(In Development)*
-* [gowarcserver](https://github.com/nlnwa/gowarcserver) ⭐ 17 | 🐛 10 | 🌐 Go | 📅 2025-03-31 - [BadgerDB](https://github.com/dgraph-io/badger) ⭐ 15,759 | 🐛 70 | 🌐 Go | 📅 2026-08-22-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
+* [gowarcserver](https://github.com/nlnwa/gowarcserver) ⭐ 17 | 🐛 10 | 🌐 Go | 📅 2025-03-31 - [BadgerDB](https://github.com/dgraph-io/badger) ⭐ 15,761 | 🐛 70 | 🌐 Go | 📅 2026-08-22-based capture index (CDX) and WARC record server, used to index and serve WARC files (Go).
 * [duckdb\_warc](https://github.com/midwork-finds-jobs/duckdb_warc) ⭐ 7 | 🐛 2 | 🌐 Rust | 📅 2026-02-05 - DuckDB extension to query WARC files. *(In Development)*
 * [bagnabit2warc](https://github.com/internetarchive/bagnabit2warc) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-03-09 - Convert a [bag-nabit](https://github.com/harvard-lil/bag-nabit) ⭐ 40 | 🐛 1 | 🌐 Python | 📅 2025-03-31 dataset stored in a ZIP into a full-content WARC.
 * [cdx-toolkit](https://pypi.org/project/cdx-toolkit/) - Library and CLI to consult cdx indexes and create WARC extractions of subsets. Abstracts away Common Crawl's unusual crawl structure. *(Stable)*
@@ -217,7 +217,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Quality Assurance
 
-* [FlameShot](https://github.com/flameshot-org/flameshot) ⭐ 30,686 | 🐛 715 | 🌐 C++ | 📅 2026-08-22 - Screen capture and annotation on Ubuntu.
+* [FlameShot](https://github.com/flameshot-org/flameshot) ⭐ 30,687 | 🐛 717 | 🌐 C++ | 📅 2026-08-22 - Screen capture and annotation on Ubuntu.
 * [xDoTool](https://github.com/jordansissel/xdotool) ⭐ 3,840 | 🐛 323 | 🌐 C | 📅 2026-06-30 - Click automation on Ubuntu.
 * [Chrome Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Browser extension: a link checker with more options.
 * [Chrome link checker](https://chromewebstore.google.com/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) - Browser extension: basic link checker.
@@ -285,7 +285,7 @@ The intention is that we only list services that allow web archives to be export
 
 ### Self-hostable, Open Source
 
-* [Browsertrix](https://webrecorder.net/browsertrix/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix> ⭐ 462 | 🐛 311 | 🌐 TypeScript | 📅 2026-08-24.
+* [Browsertrix](https://webrecorder.net/browsertrix/) - From [Webrecorder](https://webrecorder.net/), source available at <https://github.com/webrecorder/browsertrix> ⭐ 463 | 🐛 311 | 🌐 TypeScript | 📅 2026-08-24.
 * [Conifer](https://conifer.rhizome.org/) - From [Rhizome](https://rhizome.org/), source available at <https://github.com/Rhizome-Conifer>.
 
 ### Hosted, Closed Source
