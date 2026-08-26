@@ -117,10 +117,10 @@
                 "archived": false,
                 "id": 90356372,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:06:42Z",
+                "last_commit": "2026-08-25T10:57:34Z",
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28169
+                "stars": 28179
               }
             },
             {
@@ -132,10 +132,10 @@
                 "archived": false,
                 "id": 906022,
                 "language": "JavaScript",
-                "last_commit": "2026-08-05T14:41:22Z",
+                "last_commit": "2026-08-25T22:03:23Z",
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22236
+                "stars": 22243
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2026-05-25T19:56:03Z",
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15447
+                "stars": 15450
               }
             },
             {
@@ -185,7 +185,7 @@
                     "last_commit": "2026-08-25T02:06:42Z",
                     "owner": "internetarchive",
                     "repo": "heritrix3",
-                    "stars": 3303
+                    "stars": 3305
                   }
                 },
                 {
@@ -211,7 +211,7 @@
                 "last_commit": "2026-08-25T02:06:42Z",
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3303
+                "stars": 3305
               }
             },
             {
@@ -268,10 +268,10 @@
                 "archived": false,
                 "id": 309258998,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T21:51:54Z",
+                "last_commit": "2026-08-26T01:21:28Z",
                 "owner": "webrecorder",
                 "repo": "browsertrix-crawler",
-                "stars": 1118
+                "stars": 1120
               }
             },
             {
@@ -301,7 +301,7 @@
                 "last_commit": "2026-08-20T17:54:43Z",
                 "owner": "internetarchive",
                 "repo": "brozzler",
-                "stars": 815
+                "stars": 816
               }
             },
             {
@@ -593,7 +593,7 @@
                 "last_commit": "2026-04-10T22:52:02Z",
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1694
+                "stars": 1695
               }
             },
             {
@@ -623,7 +623,7 @@
                 "last_commit": "2024-01-03T23:55:02Z",
                 "owner": "iipc",
                 "repo": "openwayback",
-                "stars": 525
+                "stars": 526
               }
             },
             {
@@ -672,7 +672,7 @@
                 "archived": false,
                 "id": 81312331,
                 "language": "Java",
-                "last_commit": "2026-08-25T05:47:33Z",
+                "last_commit": "2026-08-25T07:46:40Z",
                 "owner": "netarchivesuite",
                 "repo": "solrwayback",
                 "stars": 146
@@ -810,7 +810,7 @@
                 "last_commit": "2026-08-10T09:48:01Z",
                 "owner": "nabertronic",
                 "repo": "pastpage",
-                "stars": 5
+                "stars": 6
               }
             }
           ],
@@ -934,7 +934,7 @@
                 "archived": false,
                 "id": 5430433,
                 "language": "Python",
-                "last_commit": "2026-08-21T04:13:43Z",
+                "last_commit": "2026-08-25T15:26:22Z",
                 "owner": "jjjake",
                 "repo": "internetarchive",
                 "stars": 1896
@@ -1510,10 +1510,10 @@
                 "archived": false,
                 "id": 90902132,
                 "language": "C++",
-                "last_commit": "2026-08-22T15:44:25Z",
+                "last_commit": "2026-08-25T06:21:27Z",
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30687
+                "stars": 30695
               }
             },
             {
@@ -1575,10 +1575,10 @@
                 "archived": false,
                 "id": 90356372,
                 "language": "Python",
-                "last_commit": "2026-08-24T21:06:42Z",
+                "last_commit": "2026-08-25T10:57:34Z",
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28169
+                "stars": 28179
               }
             },
             {
@@ -1618,7 +1618,7 @@
                 "archived": false,
                 "id": 381178875,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T22:30:15Z",
+                "last_commit": "2026-08-25T20:35:50Z",
                 "owner": "webrecorder",
                 "repo": "browsertrix",
                 "stars": 463
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:08.000Z",
+    "last_updated": "2026-08-26T03:35:17.051Z",
     "original_repository": "iipc/awesome-web-archiving",
     "original_repository_id": 94536097,
     "original_repository_sha": "96c9e50be561ac137a2e7d7f88b53860783eb939",
