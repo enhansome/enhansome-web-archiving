@@ -132,10 +132,10 @@
                 "archived": false,
                 "id": 906022,
                 "language": "JavaScript",
-                "last_commit": "2026-08-27T11:40:28Z",
+                "last_commit": "2026-08-27T12:45:37Z",
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22252
+                "stars": 22253
               }
             },
             {
@@ -1655,7 +1655,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:10:45.329Z",
+    "last_updated": "2026-08-27T13:03:55.442Z",
     "original_repository_info": {
       "archived": false,
       "id": 94536097,

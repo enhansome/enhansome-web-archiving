@@ -82,7 +82,7 @@ This list of tools and software is intended to briefly describe some of the most
 ### Acquisition
 
 * [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,192 | 🐛 172 | 🌐 Python | 📅 2026-08-27 - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
-* [SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,252 | 🐛 108 | 🌐 JavaScript | 📅 2026-08-27 - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
+* [SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,253 | 🐛 108 | 🌐 JavaScript | 📅 2026-08-27 - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
 * [monolith](https://github.com/Y2Z/monolith) ⭐ 15,454 | 🐛 73 | 🌐 Rust | 📅 2026-05-25 - CLI tool to save a web page as a single HTML file. *(Stable)*
 * [DiskerNet](https://github.com/DO-SAY-GO/dn) ⭐ 3,908 | 🐛 2 | 🌐 JavaScript | 📅 2026-08-09 - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
 * [Heritrix](https://github.com/internetarchive/heritrix3/wiki) ⭐ 3,306 | 🐛 37 | 🌐 Java | 📅 2026-08-25 - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
