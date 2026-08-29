@@ -174,11 +174,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T04:18:48Z",
+                "last_commit": "2026-08-29T05:12:38Z",
                 "open_issues": 159,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28198,
+                "stars": 28200,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -220,7 +220,7 @@
                 "open_issues": 103,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22263,
+                "stars": 22261,
                 "topics": [
                   "annotations",
                   "archive",
@@ -262,7 +262,7 @@
                 "open_issues": 73,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15456,
+                "stars": 15457,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -331,7 +331,7 @@
                     "open_issues": 37,
                     "owner": "internetarchive",
                     "repo": "heritrix3",
-                    "stars": 3309,
+                    "stars": 3308,
                     "topics": [
                       "heritrix",
                       "java",
@@ -374,7 +374,7 @@
                 "open_issues": 37,
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3309,
+                "stars": 3308,
                 "topics": [
                   "heritrix",
                   "java",
@@ -396,7 +396,7 @@
                 "id": 271984275,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T14:13:40Z",
+                "last_commit": "2026-08-29T08:47:11Z",
                 "open_issues": 59,
                 "owner": "wabarc",
                 "repo": "wayback",
@@ -621,7 +621,7 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-06-17T03:25:51Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "internetarchive",
                 "repo": "warcprox",
                 "stars": 464,
@@ -2121,6 +2121,27 @@
             },
             {
               "node_type": "item",
+              "title": "jwarc",
+              "description": "Read and write WARC files with a type safe API (Java).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Java library for reading and writing WARC files with a typed API",
+                "homepage": null,
+                "id": 42840943,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2026-06-27T09:48:55Z",
+                "open_issues": 20,
+                "owner": "iipc",
+                "repo": "jwarc",
+                "stars": 61,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:34:03.112Z"
+            },
+            {
+              "node_type": "item",
               "title": "warc",
               "description": "A Rust library for reading and writing WARC files. (Stable)",
               "children": [],
@@ -2141,27 +2162,6 @@
                   "rust-library",
                   "warc"
                 ]
-              },
-              "first_seen": "2026-08-28T14:34:03.112Z"
-            },
-            {
-              "node_type": "item",
-              "title": "jwarc",
-              "description": "Read and write WARC files with a type safe API (Java).",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Java library for reading and writing WARC files with a typed API",
-                "homepage": null,
-                "id": 42840943,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2026-06-27T09:48:55Z",
-                "open_issues": 20,
-                "owner": "iipc",
-                "repo": "jwarc",
-                "stars": 60,
-                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -2549,7 +2549,7 @@
                 "open_issues": 323,
                 "owner": "jordansissel",
                 "repo": "xdotool",
-                "stars": 3839,
+                "stars": 3840,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2613,11 +2613,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-29T04:18:48Z",
+                "last_commit": "2026-08-29T05:12:38Z",
                 "open_issues": 159,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28198,
+                "stars": 28200,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -2750,7 +2750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:21:10.131Z",
+    "last_updated": "2026-08-29T09:20:59.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",
