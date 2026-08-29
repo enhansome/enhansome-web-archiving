@@ -12,12 +12,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A whirlwind tour of Common Crawl's data using Python",
+                "homepage": null,
                 "id": 818861054,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-15T14:46:26Z",
+                "open_issues": 0,
                 "owner": "commoncrawl",
                 "repo": "whirlwind-python",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "archive",
+                  "python",
+                  "tutorial",
+                  "warc"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -28,12 +38,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Archiving Course",
+                "homepage": null,
                 "id": 462108428,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-03-04T00:46:23Z",
+                "open_issues": 10,
                 "owner": "vphill",
                 "repo": "web-archiving-course",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -44,12 +59,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A jupyter notebook illistrating the basics of Common Crawl's datasets.",
+                "homepage": null,
                 "id": 1085185653,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-31T14:30:25Z",
+                "open_issues": 0,
                 "owner": "commoncrawl",
                 "repo": "whirlwind-python-notebook",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "aws",
+                  "open-datasets",
+                  "s3",
+                  "sagemaker"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -60,12 +85,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A whirlwind tour of Common Crawl's data using Java",
+                "homepage": null,
                 "id": 1080649917,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-04-20T16:23:18Z",
+                "open_issues": 1,
                 "owner": "commoncrawl",
                 "repo": "whirlwind-java",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -87,12 +117,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome tools for website diffing and change monitoring.",
+            "homepage": null,
             "id": 92253636,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-11T19:40:32Z",
+            "open_issues": 8,
             "owner": "edgi-govdata-archiving",
             "repo": "awesome-website-change-monitoring",
-            "stars": 513
+            "stars": 513,
+            "topics": [
+              "awesome-list",
+              "change-detector",
+              "diff",
+              "diffing"
+            ]
           },
           "first_seen": "2026-08-28T14:34:03.112Z"
         },
@@ -103,12 +143,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📚  A compilation of research relevant to Data Together's efforts tackling the general problem of data resilience & interactivity",
+            "homepage": null,
             "id": 91585153,
             "language": null,
+            "license": "CC-BY-SA-4.0",
             "last_commit": "2018-09-27T04:01:34Z",
+            "open_issues": 8,
             "owner": "datatogether",
             "repo": "research",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "docs",
+              "research"
+            ]
           },
           "first_seen": "2026-08-28T14:34:03.112Z"
         },
@@ -121,12 +169,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+                "homepage": "https://archivebox.io",
                 "id": 90356372,
                 "language": "Python",
-                "last_commit": "2026-08-28T07:52:39Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:18:48Z",
+                "open_issues": 159,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28198
+                "stars": 28198,
+                "topics": [
+                  "archivebox",
+                  "backups",
+                  "bookmark-archiver",
+                  "browser-bookmarks",
+                  "chromium",
+                  "digipres",
+                  "firefox",
+                  "headless-browser",
+                  "internet-archiving",
+                  "pinboard",
+                  "pocket",
+                  "python",
+                  "rss",
+                  "self-hosted",
+                  "singlefile",
+                  "warc",
+                  "wayback-machine",
+                  "web-archiving",
+                  "wget",
+                  "youtube-dl"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -137,12 +211,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web Extension for saving a faithful copy of a complete web page in a single HTML file",
+                "homepage": "https://getsinglefile.com",
                 "id": 906022,
                 "language": "JavaScript",
-                "last_commit": "2026-08-28T10:46:53Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T03:00:33Z",
+                "open_issues": 103,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22256
+                "stars": 22263,
+                "topics": [
+                  "annotations",
+                  "archive",
+                  "archiver",
+                  "auto-save",
+                  "browser",
+                  "chrome",
+                  "chrome-extension",
+                  "cli",
+                  "firefox",
+                  "firefox-addon",
+                  "javascript",
+                  "offline-reading",
+                  "osint",
+                  "puppeteer",
+                  "screenshot",
+                  "selenium",
+                  "self-extracting",
+                  "self-extracting-zip",
+                  "snapshot",
+                  "web-clipper"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -153,12 +253,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "⬛️ CLI tool and library for saving complete web pages as a single HTML file",
+                "homepage": "https://crates.io/crates/monolith",
                 "id": 82530909,
                 "language": "Rust",
+                "license": "CC0-1.0",
                 "last_commit": "2026-05-25T19:56:03Z",
+                "open_issues": 73,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15455
+                "stars": 15456,
+                "topics": [
+                  "come-and-take-it",
+                  "e-hoarding",
+                  "its-mine",
+                  "make-the-internet-great-again",
+                  "no-more-404",
+                  "procrastination",
+                  "save-the-internet",
+                  "tab-rehab"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -169,12 +283,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌱 TDF - Tree Document Format - a universal file format for web collections",
+                "homepage": "https://trees.dosaygo.com",
                 "id": 229236549,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-09T11:12:16Z",
+                "open_issues": 2,
                 "owner": "DO-SAY-GO",
                 "repo": "tdf",
-                "stars": 3908
+                "stars": 3908,
+                "topics": [
+                  "archive",
+                  "archiver",
+                  "disk",
+                  "diskernet",
+                  "dn",
+                  "download-net",
+                  "internet",
+                  "memex",
+                  "search-engine",
+                  "tdf",
+                  "web-archive",
+                  "web-browsing"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -190,12 +322,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.  ",
+                    "homepage": "https://heritrix.readthedocs.io/",
                     "id": 2623406,
                     "language": "Java",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-25T02:06:42Z",
+                    "open_issues": 37,
                     "owner": "internetarchive",
                     "repo": "heritrix3",
-                    "stars": 3308
+                    "stars": 3309,
+                    "topics": [
+                      "heritrix",
+                      "java",
+                      "warc",
+                      "webcrawling"
+                    ]
                   },
                   "first_seen": "2026-08-28T14:34:03.112Z"
                 },
@@ -206,24 +348,39 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 60215308,
                     "language": "Shell",
+                    "license": "MIT",
                     "last_commit": "2016-06-10T00:05:11Z",
+                    "open_issues": 2,
                     "owner": "web-archive-group",
                     "repo": "heritrix-walkthrough",
-                    "stars": 10
+                    "stars": 10,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T14:34:03.112Z"
                 }
               ],
               "repo_info": {
                 "archived": false,
+                "description": "Heritrix is the Internet Archive's open-source, extensible, web-scale, archival-quality web crawler project.  ",
+                "homepage": "https://heritrix.readthedocs.io/",
                 "id": 2623406,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-25T02:06:42Z",
+                "open_issues": 37,
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3308
+                "stars": 3309,
+                "topics": [
+                  "heritrix",
+                  "java",
+                  "warc",
+                  "webcrawling"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -234,12 +391,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An archiving tool with an IM-style interface that prioritizes privacy and accessibility, integrated with various archival services including Internet Archive, archive.today, Ghostarchive, IPFS, Telegraph, and file systems.",
+                "homepage": "https://docs.wabarc.eu.org",
                 "id": 271984275,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-28T14:13:40Z",
+                "open_issues": 59,
                 "owner": "wabarc",
                 "repo": "wayback",
-                "stars": 2228
+                "stars": 2228,
+                "topics": [
+                  "archive",
+                  "har",
+                  "heroku",
+                  "internet-archive",
+                  "ipfs",
+                  "irc",
+                  "mastodon",
+                  "matrix",
+                  "memento",
+                  "nostr",
+                  "notion",
+                  "save-the-internet",
+                  "screenshot",
+                  "self-hosted",
+                  "snapshot",
+                  "snapshot-webpage",
+                  "telegram",
+                  "telegraph",
+                  "twitter",
+                  "wayback-machine"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -250,12 +433,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The archivist's web crawler: WARC output, dashboard for all crawls, dynamic ignore patterns",
+                "homepage": null,
                 "id": 30338639,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-05-23T09:57:06Z",
+                "open_issues": 104,
                 "owner": "ArchiveTeam",
                 "repo": "grab-site",
-                "stars": 1607
+                "stars": 1607,
+                "topics": [
+                  "archiving",
+                  "crawl",
+                  "crawler",
+                  "spider",
+                  "warc"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -266,12 +460,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A command line tool (and Python library) for archiving Twitter JSON",
+                "homepage": "https://twarc-project.readthedocs.io",
                 "id": 7605723,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-10-31T18:03:47Z",
+                "open_issues": 47,
                 "owner": "DocNow",
                 "repo": "twarc",
-                "stars": 1393
+                "stars": 1393,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -282,12 +481,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Run a high-fidelity browser-based web archiving crawler in a single Docker container",
+                "homepage": "https://crawler.docs.browsertrix.com",
                 "id": 309258998,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T21:28:07Z",
+                "open_issues": 144,
                 "owner": "webrecorder",
                 "repo": "browsertrix-crawler",
-                "stars": 1122
+                "stars": 1122,
+                "topics": [
+                  "crawler",
+                  "crawling",
+                  "wacz",
+                  "warc",
+                  "web-archiving",
+                  "web-crawler",
+                  "webrecorder"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -298,12 +510,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatically archive links to videos, images, and social media content from Google Sheets (and more).",
+                "homepage": "https://pypi.org/project/auto-archiver/",
                 "id": 329880580,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-18T10:40:29Z",
+                "open_issues": 11,
                 "owner": "bellingcat",
                 "repo": "auto-archiver",
-                "stars": 1109
+                "stars": 1109,
+                "topics": [
+                  "archive",
+                  "docker",
+                  "open-source-research",
+                  "python",
+                  "scraping",
+                  "service",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -314,12 +539,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "brozzler - distributed browser-based web crawler",
+                "homepage": null,
                 "id": 39043260,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-20T17:54:43Z",
+                "open_issues": 64,
                 "owner": "internetarchive",
                 "repo": "brozzler",
-                "stars": 816
+                "stars": 816,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -330,12 +560,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wget-compatible web downloader and crawler.",
+                "homepage": null,
                 "id": 15005712,
                 "language": "HTML",
+                "license": "GPL-3.0",
                 "last_commit": "2024-04-29T12:41:59Z",
+                "open_issues": 205,
                 "owner": "ArchiveTeam",
                 "repo": "wpull",
-                "stars": 613
+                "stars": 613,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -346,12 +581,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wayback Machine API interface & a command-line tool",
+                "homepage": "https://pypi.org/project/waybackpy/",
                 "id": 260652547,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-26T00:15:49Z",
+                "open_issues": 23,
                 "owner": "akamhy",
                 "repo": "waybackpy",
-                "stars": 603
+                "stars": 603,
+                "topics": [
+                  "archive-webpage",
+                  "archive-webpages",
+                  "cdx-api",
+                  "internet-archive",
+                  "internet-archiving",
+                  "osint",
+                  "savepagenow",
+                  "wayback-machine",
+                  "wayback-machine-api",
+                  "wayback-machine-python",
+                  "web-archiving",
+                  "webarchiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -362,12 +615,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WARC writing MITM HTTP/S proxy",
+                "homepage": null,
                 "id": 13874432,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-17T03:25:51Z",
+                "open_issues": 32,
                 "owner": "internetarchive",
                 "repo": "warcprox",
-                "stars": 464
+                "stars": 464,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -378,12 +636,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tool To Push Web Resources Into Web Archives",
+                "homepage": null,
                 "id": 81448050,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-01-23T17:39:56Z",
+                "open_issues": 17,
                 "owner": "oduwsdl",
                 "repo": "archivenow",
-                "stars": 434
+                "stars": 434,
+                "topics": [
+                  "internet-archive",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -394,12 +660,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":whale2: Web Archiving Integration Layer: One-Click User Instigated Preservation",
+                "homepage": "https://matkelly.com/wail",
                 "id": 8906473,
                 "language": "Roff",
+                "license": "MIT",
                 "last_commit": "2026-06-19T18:00:39Z",
+                "open_issues": 184,
                 "owner": "machawk1",
                 "repo": "wail",
-                "stars": 400
+                "stars": 400,
+                "topics": [
+                  "gui",
+                  "heritrix",
+                  "openwayback",
+                  "pyinstaller",
+                  "python",
+                  "warc",
+                  "wayback",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -410,12 +690,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Go package and CLI tool for saving web page as single HTML file",
+                "homepage": null,
                 "id": 250925391,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-01T07:04:04Z",
+                "open_issues": 10,
                 "owner": "go-shiori",
                 "repo": "obelisk",
-                "stars": 320
+                "stars": 320,
+                "topics": [
+                  "archive",
+                  "cli",
+                  "go",
+                  "golang",
+                  "hacktoberfest"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -426,12 +717,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Snapshots a web page to get it as a static, self-contained HTML document.",
+                "homepage": "https://freezedry.webmemex.org",
                 "id": 97173084,
                 "language": "TypeScript",
+                "license": "Unlicense",
                 "last_commit": "2022-09-18T15:22:13Z",
+                "open_issues": 21,
                 "owner": "WebMemex",
                 "repo": "freeze-dry",
-                "stars": 305
+                "stars": 306,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -442,12 +738,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🍨 High-fidelity, browser-based, single-page web archiving library and CLI for witnessing the web.",
+                "homepage": null,
                 "id": 539144432,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-09-03T18:27:26Z",
+                "open_issues": 16,
                 "owner": "harvard-lil",
                 "repo": "scoop",
-                "stars": 210
+                "stars": 210,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -458,12 +759,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Squidwarc is a high fidelity, user scriptable, archival crawler that uses Chrome or Chromium with or without a head",
+                "homepage": "https://n0tan3rd.github.io/Squidwarc/",
                 "id": 97801313,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-05-19T04:31:59Z",
+                "open_issues": 11,
                 "owner": "N0taN3rd",
                 "repo": "Squidwarc",
-                "stars": 178
+                "stars": 178,
+                "topics": [
+                  "browser-automation",
+                  "chrome",
+                  "chrome-headless",
+                  "crawler",
+                  "crawling",
+                  "headless-chrome",
+                  "high-fidelity-preservation",
+                  "puppeteer",
+                  "webarchives",
+                  "webarchiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -474,12 +791,21 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Offline-first web browser",
+                "homepage": null,
                 "id": 163245449,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2019-01-14T22:45:19Z",
+                "open_issues": 1,
                 "owner": "CGamesPlay",
                 "repo": "chronicler",
-                "stars": 92
+                "stars": 92,
+                "topics": [
+                  "browser",
+                  "electron",
+                  "warc"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -490,12 +816,20 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A commandline tool and Python library for archiving data from Facebook using the Graph API.",
+                "homepage": null,
                 "id": 82000528,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2018-01-29T13:49:55Z",
+                "open_issues": 3,
                 "owner": "justinlittman",
                 "repo": "fbarc",
-                "stars": 78
+                "stars": 78,
+                "topics": [
+                  "code4lib",
+                  "facebook-graph-api"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -506,12 +840,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Easy-to-use Web archiver",
+                "homepage": null,
                 "id": 217758345,
                 "language": "Python",
+                "license": "LGPL-3.0",
                 "last_commit": "2026-04-13T18:50:55Z",
+                "open_issues": 11,
                 "owner": "turicas",
                 "repo": "crau",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -522,12 +861,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dockerized, queued high fidelity web archiver based on Squidwarc",
+                "homepage": null,
                 "id": 141795011,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-07-09T07:58:44Z",
+                "open_issues": 6,
                 "owner": "peterk",
                 "repo": "warcworker",
-                "stars": 62
+                "stars": 62,
+                "topics": [
+                  "archiving",
+                  "high-fidelity-preservation",
+                  "preservation",
+                  "webarchives",
+                  "webarchiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -538,12 +888,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NPM package and CLI tool for saving web page as single HTML file",
+                "homepage": null,
                 "id": 302261532,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-24T14:32:50Z",
+                "open_issues": 26,
                 "owner": "wabarc",
                 "repo": "cairn",
-                "stars": 51
+                "stars": 51,
+                "topics": [
+                  "archive",
+                  "base64",
+                  "cli",
+                  "html",
+                  "html-files",
+                  "internet-archive",
+                  "javascript",
+                  "memento",
+                  "mhtml",
+                  "node",
+                  "nodejs",
+                  "npm-package",
+                  "obelisk",
+                  "single-file",
+                  "typescript",
+                  "wayback",
+                  "wayback-archiver",
+                  "webpage"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -554,12 +928,22 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Web archiving using Google Chrome",
+                "homepage": "https://6xq.net/crocoite/",
                 "id": 111139920,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2019-12-30T11:02:46Z",
+                "open_issues": 12,
                 "owner": "PromyLOPh",
                 "repo": "crocoite",
-                "stars": 45
+                "stars": 45,
+                "topics": [
+                  "archiving",
+                  "chrome-browser",
+                  "devtools",
+                  "warc"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -570,12 +954,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy-to-use and highly customizable crawler that enables you to create your own little Web archives (WARC/CDX)",
+                "homepage": null,
                 "id": 50656442,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2017-10-09T12:15:00Z",
+                "open_issues": 1,
                 "owner": "helgeho",
                 "repo": "Web2Warc",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -586,12 +975,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "simple script to convert web resources to a single warc file",
+                "homepage": null,
                 "id": 48804223,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-11T18:17:59Z",
+                "open_issues": 0,
                 "owner": "steffenfritz",
                 "repo": "html2warc",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -602,12 +996,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Wget with Lua extension",
+                "homepage": null,
                 "id": 5500706,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2015-12-17T13:49:55Z",
+                "open_issues": 0,
                 "owner": "alard",
                 "repo": "wget-lua",
-                "stars": 24
+                "stars": 24,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -625,12 +1024,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Core Python Web Archiving Toolkit for replay and recording of web archives",
+                "homepage": "https://pypi.python.org/pypi/pywb",
                 "id": 15037172,
                 "language": "JavaScript",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-26T07:49:35Z",
+                "open_issues": 184,
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1697
+                "stars": 1697,
+                "topics": [
+                  "python",
+                  "pywb",
+                  "wayback",
+                  "web-archives",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -641,12 +1051,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "InterPlanetary Wayback: A distributed and persistent archive replay system using IPFS",
+                "homepage": null,
                 "id": 53143022,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-24T13:33:40Z",
+                "open_issues": 160,
                 "owner": "oduwsdl",
                 "repo": "ipwb",
-                "stars": 655
+                "stars": 655,
+                "topics": [
+                  "docker",
+                  "ipfs",
+                  "memento",
+                  "memento-rfc",
+                  "python",
+                  "service-worker",
+                  "warc",
+                  "wayback",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -657,12 +1082,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The OpenWayback Development",
+                "homepage": "http://www.netpreserve.org/openwayback",
                 "id": 4007590,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-03T23:55:02Z",
+                "open_issues": 105,
                 "owner": "iipc",
                 "repo": "openwayback",
-                "stars": 526
+                "stars": 526,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -673,12 +1103,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts WARC files to static HTML",
+                "homepage": null,
                 "id": 425693681,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-18T06:10:20Z",
+                "open_issues": 5,
                 "owner": "iipc",
                 "repo": "warc2html",
-                "stars": 59
+                "stars": 59,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -696,12 +1131,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Websites crawler with built-in exploration and control web interface",
+                "homepage": "http://hyphe.medialab.sciences-po.fr/demo/",
                 "id": 1193901,
                 "language": "JavaScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-05-18T15:29:40Z",
+                "open_issues": 56,
                 "owner": "medialab",
                 "repo": "hyphe",
-                "stars": 386
+                "stars": 386,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -712,12 +1152,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A search interface and wayback machine for the UKWA Solr based warc-indexer framework.",
+                "homepage": null,
                 "id": 81312331,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T07:47:47Z",
+                "open_issues": 65,
                 "owner": "netarchivesuite",
                 "repo": "solrwayback",
-                "stars": 147
+                "stars": 147,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -728,12 +1173,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Please note that the warc-indexer tool & code is now supported by NetArchiveSuite. The 'warc-indexer' directory and code that exists in this repo is now only for reference. For support and issues of 'warc-indexer', please communicate with NetArchiveSuite.",
+                "homepage": "https://github.com/ukwa/webarchive-discovery/wiki",
                 "id": 7257232,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2025-11-21T19:21:00Z",
+                "open_issues": 93,
                 "owner": "ukwa",
                 "repo": "webarchive-discovery",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -744,12 +1194,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Please note that the warc-indexer tool & code is now supported by NetArchiveSuite. The 'warc-indexer' directory and code that exists in this repo is now only for reference. For support and issues of 'warc-indexer', please communicate with NetArchiveSuite.",
+                "homepage": "https://github.com/ukwa/webarchive-discovery/wiki",
                 "id": 7257232,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2025-11-21T19:21:00Z",
+                "open_issues": 93,
                 "owner": "ukwa",
                 "repo": "webarchive-discovery",
-                "stars": 133
+                "stars": 133,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -760,12 +1215,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chrome extension that uses Memento to indicate that a page a user is viewing on the live web has an archived copy and to give the user access to the copy",
+                "homepage": null,
                 "id": 16007929,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-08-27T20:18:28Z",
+                "open_issues": 95,
                 "owner": "machawk1",
                 "repo": "Mink",
-                "stars": 58
+                "stars": 58,
+                "topics": [
+                  "chrome",
+                  "extension",
+                  "internet-archive",
+                  "memento",
+                  "memento-rfc"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -776,12 +1242,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "A Rails engine supporting the discovery of web archives.",
+                "homepage": "https://archivesunleashed.org/warclight/",
                 "id": 99259862,
                 "language": "Ruby",
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-13T14:08:59Z",
+                "open_issues": 8,
                 "owner": "archivesunleashed",
                 "repo": "warclight",
-                "stars": 50
+                "stars": 50,
+                "topics": [
+                  "blacklight",
+                  "discovery",
+                  "rails",
+                  "rails-engine",
+                  "ruby",
+                  "solr",
+                  "warc",
+                  "webarchive-discovery",
+                  "webarchives"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -792,12 +1273,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Prototype SOLR-powered web archive exploration UI.",
+                "homepage": "https://github.com/ukwa/shine/wiki",
                 "id": 11160459,
                 "language": "JavaScript",
+                "license": "Apache-2.0",
                 "last_commit": "2020-06-03T21:45:36Z",
+                "open_issues": 50,
                 "owner": "ukwa",
                 "repo": "shine",
-                "stars": 43
+                "stars": 43,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -808,12 +1294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 126729939,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2026-06-30T04:26:25Z",
+                "open_issues": 4,
                 "owner": "webis-de",
                 "repo": "wasp",
-                "stars": 28
+                "stars": 28,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -824,12 +1315,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A data retrieval & exploration protocol designed to investigate science and policy processes",
+                "homepage": "https://guillaume-levrier.github.io/PANDORAE/",
                 "id": 161150758,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2026-06-09T13:26:26Z",
+                "open_issues": 1,
                 "owner": "Guillaume-Levrier",
                 "repo": "PANDORAE",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -840,12 +1336,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Playback webpages from Wayback Machine",
+                "homepage": null,
                 "id": 355937385,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T03:31:23Z",
+                "open_issues": 6,
                 "owner": "wabarc",
                 "repo": "playback",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "go",
+                  "playback",
+                  "wayback-machine",
+                  "webpage"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -856,12 +1362,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PastPage source recovery browser extension",
+                "homepage": null,
                 "id": 1222671785,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-10T09:48:01Z",
+                "open_issues": 1,
                 "owner": "nabertronic",
                 "repo": "pastpage",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -879,12 +1390,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Extract web archive data using Wayback Machine and Common Crawl",
+                "homepage": null,
                 "id": 191992923,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2024-11-04T08:25:29Z",
+                "open_issues": 0,
                 "owner": "karust",
                 "repo": "gogetcrawl",
-                "stars": 183
+                "stars": 183,
+                "topics": [
+                  "commoncrawl",
+                  "concurrency",
+                  "crawler",
+                  "golang",
+                  "wayback-machine",
+                  "webarchive"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -895,12 +1418,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of tools for archiving and analysing the internet.",
+                "homepage": null,
                 "id": 29260081,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2022-07-06T19:37:55Z",
+                "open_issues": 2,
                 "owner": "recrm",
                 "repo": "ArchiveTools",
-                "stars": 81
+                "stars": 81,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -911,12 +1439,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert HTTP Archive (HAR) -> Web Archive (WARC) format",
+                "homepage": "https://pypi.python.org/pypi/har2warc",
                 "id": 85133941,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2018-10-21T05:01:44Z",
+                "open_issues": 3,
                 "owner": "webrecorder",
                 "repo": "har2warc",
-                "stars": 55
+                "stars": 55,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -927,12 +1460,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DuckDB extension to fetch pages from Wayback Machine & Common Crawl",
+                "homepage": null,
                 "id": 1101444656,
                 "language": "C++",
+                "license": "MIT",
                 "last_commit": "2026-06-27T17:30:16Z",
+                "open_issues": 2,
                 "owner": "midwork-finds-jobs",
                 "repo": "duckdb-web-archive",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "archived",
+                  "cdx-api",
+                  "common-crawl",
+                  "duckdb",
+                  "duckdb-extension",
+                  "sql",
+                  "wayback-machine",
+                  "website"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -943,12 +1490,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 329883475,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-03-31T12:53:39Z",
+                "open_issues": 10,
                 "owner": "nlnwa",
                 "repo": "gowarcserver",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -959,12 +1511,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DuckDB extension for parsing WARC files",
+                "homepage": null,
                 "id": 1106925074,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2026-02-05T15:33:27Z",
+                "open_issues": 2,
                 "owner": "midwork-finds-jobs",
                 "repo": "duckdb_warc",
-                "stars": 7
+                "stars": 7,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -975,12 +1532,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Convert a bag-nabit dataset stored in a ZIP into a full-content WARC.",
+                "homepage": null,
                 "id": 1177212730,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-09T20:11:55Z",
+                "open_issues": 0,
                 "owner": "internetarchive",
                 "repo": "bagnabit2warc",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -991,12 +1553,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python and Command-Line Interface to Archive.org",
+                "homepage": null,
                 "id": 5430433,
                 "language": "Python",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-25T15:26:22Z",
+                "open_issues": 103,
                 "owner": "jjjake",
                 "repo": "internetarchive",
-                "stars": 1897
+                "stars": 1897,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1007,12 +1574,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for downloading and preserving wikis. We archive wikis, from Wikipedia to tiniest wikis. As of 2026, WikiTeam has preserved more than 600,000 wikis.",
+                "homepage": "https://github.com/WikiTeam",
                 "id": 21198903,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-01-10T09:59:38Z",
+                "open_issues": 171,
                 "owner": "WikiTeam",
                 "repo": "wikiteam",
-                "stars": 862
+                "stars": 862,
+                "topics": [
+                  "archive-wikis",
+                  "backup",
+                  "digital-preservation",
+                  "dump",
+                  "export",
+                  "mediawiki",
+                  "python",
+                  "wiki",
+                  "wikipedia",
+                  "wikiteam",
+                  "xml"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1023,12 +1607,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WarcDB: Web crawl data as SQLite databases.",
+                "homepage": "https://WarcDB.tselai.com",
                 "id": 497566500,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-07-13T11:24:29Z",
+                "open_issues": 9,
                 "owner": "Florents-Tselai",
                 "repo": "WarcDB",
-                "stars": 407
+                "stars": 407,
+                "topics": [
+                  "cli",
+                  "crawling",
+                  "database",
+                  "sqlite",
+                  "warc",
+                  "web-archiving",
+                  "web-data"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1039,12 +1636,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Memento Aggregator CLI and Server in Go",
+                "homepage": "https://memgator.cs.odu.edu/api.html",
                 "id": 42083286,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-04-09T18:56:58Z",
+                "open_issues": 49,
                 "owner": "oduwsdl",
                 "repo": "MemGator",
-                "stars": 80
+                "stars": 80,
+                "topics": [
+                  "memento",
+                  "memento-rfc",
+                  "timemap",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1055,12 +1662,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tools for bulk indexing of WARC/ARC files on Hadoop, EMR or local file system.",
+                "homepage": null,
                 "id": 31921039,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2017-12-04T12:49:55Z",
+                "open_issues": 5,
                 "owner": "ikreymer",
                 "repo": "webarchive-indexing",
-                "stars": 46
+                "stars": 46,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1071,12 +1683,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web archive index server based on RocksDB",
+                "homepage": null,
                 "id": 29324130,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-01T07:52:35Z",
+                "open_issues": 22,
                 "owner": "nla",
                 "repo": "outbackcdx",
-                "stars": 44
+                "stars": 44,
+                "topics": [
+                  "wayback",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1087,12 +1707,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Converts HTTrack crawls to WARC files",
+                "homepage": null,
                 "id": 107937611,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2024-08-06T04:31:40Z",
+                "open_issues": 2,
                 "owner": "nla",
                 "repo": "httrack2warc",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1103,12 +1730,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for exploring, analyzing, transforming, recombining, and extracting data from WARC (Web ARChive) files.",
+                "homepage": null,
                 "id": 938237516,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-07-30T16:18:51Z",
+                "open_issues": 3,
                 "owner": "harvard-lil",
                 "repo": "warcbench",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1119,12 +1751,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A tool for detecting viruses and NSFW material in WARC files",
+                "homepage": null,
                 "id": 795373256,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-15T08:52:41Z",
+                "open_issues": 1,
                 "owner": "natliblux",
                 "repo": "warc-safe",
-                "stars": 18
+                "stars": 18,
+                "topics": [
+                  "antivirus",
+                  "nsfw-classifier",
+                  "warc",
+                  "warc-safe",
+                  "webarchiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1135,12 +1778,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A client for the Archive-It And Webrecorder WASAPI Data Transfer API",
+                "homepage": null,
                 "id": 99948481,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-10-18T21:06:38Z",
+                "open_issues": 0,
                 "owner": "unt-libraries",
                 "repo": "py-wasapi-client",
-                "stars": 16
+                "stars": 16,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1151,12 +1799,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Tool to Summarize Web Archive Holdings",
+                "homepage": null,
                 "id": 166611609,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-06-15T16:14:51Z",
+                "open_issues": 0,
                 "owner": "oduwsdl",
                 "repo": "MementoMap",
-                "stars": 12
+                "stars": 12,
+                "topics": [
+                  "memento",
+                  "mementomap",
+                  "profiling",
+                  "python",
+                  "ukvs",
+                  "web-archive"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1167,12 +1827,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tika based link (URL) extractor for httpreserve",
+                "homepage": null,
                 "id": 87032181,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2025-04-26T19:56:42Z",
+                "open_issues": 6,
                 "owner": "httpreserve",
                 "repo": "tikalinkextract",
-                "stars": 11
+                "stars": 11,
+                "topics": [
+                  "archives",
+                  "code4lib",
+                  "digitalpreservation",
+                  "httpreserve",
+                  "iipc",
+                  "tika",
+                  "tika-wrapper",
+                  "url-extractor",
+                  "webarchiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1183,12 +1858,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CLI implementation of httpreserve that can test links and retrieve internet archive replacements",
+                "homepage": "http://httpreserve.info",
                 "id": 176600526,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-07-05T15:50:35Z",
+                "open_issues": 2,
                 "owner": "httpreserve",
                 "repo": "linkstat",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "archives",
+                  "cli",
+                  "code4lib",
+                  "digipres",
+                  "digital-preservation",
+                  "glam",
+                  "internet-archive",
+                  "link-checker",
+                  "wayback-machine",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1199,12 +1890,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web archive deduplication tools",
+                "homepage": null,
                 "id": 19021743,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-10-18T11:24:55Z",
+                "open_issues": 11,
                 "owner": "arcalex",
                 "repo": "warcrefs",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1215,12 +1911,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java application to download WARCs from WASAPI",
+                "homepage": null,
                 "id": 89745394,
                 "language": "Java",
+                "license": "NOASSERTION",
                 "last_commit": "2025-11-17T15:26:06Z",
+                "open_issues": 25,
                 "owner": "sul-dlss-deprecated",
                 "repo": "wasapi-downloader",
-                "stars": 7
+                "stars": 7,
+                "topics": [
+                  "application",
+                  "infrastructure",
+                  "java"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1231,12 +1936,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse CDXJ(https://github.com/oduwsdl/ORS/wiki/CDXJ) files with node.js",
+                "homepage": null,
                 "id": 91649588,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2017-07-20T02:04:58Z",
+                "open_issues": 0,
                 "owner": "N0taN3rd",
                 "repo": "node-cdxj",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "cdxj",
+                  "web-archives",
+                  "webarchive",
+                  "webarchiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1247,12 +1962,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Partition (W)ARC Files by MIME Type and Year",
+                "homepage": null,
                 "id": 81841577,
                 "language": "Java",
+                "license": "MIT",
                 "last_commit": "2017-02-13T15:47:08Z",
+                "open_issues": 0,
                 "owner": "helgeho",
                 "repo": "WarcPartitioner",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "hadoop",
+                  "warc",
+                  "web-archiving",
+                  "webarchive"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -1270,12 +1995,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Streaming WARC/ARC library for fast web archive IO",
+                "homepage": "https://pypi.python.org/pypi/warcio",
                 "id": 84105710,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-10T21:12:28Z",
+                "open_issues": 64,
                 "owner": "webrecorder",
                 "repo": "warcio",
-                "stars": 470
+                "stars": 470,
+                "topics": [
+                  "python",
+                  "pywb",
+                  "warc",
+                  "web-archives",
+                  "web-archiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1286,12 +2022,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command line tools and libraries for handling and manipulating WARC files (and HTTP contents)",
+                "homepage": null,
                 "id": 8960735,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-08-18T22:15:47Z",
+                "open_issues": 17,
                 "owner": "internetarchive",
                 "repo": "warctools",
-                "stars": 177
+                "stars": 177,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1302,12 +2043,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Tool and library for handling Web ARChive (WARC) files.",
+                "homepage": null,
                 "id": 9325786,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-10-11T09:28:20Z",
+                "open_issues": 15,
                 "owner": "chfoo",
                 "repo": "warcat",
-                "stars": 165
+                "stars": 165,
+                "topics": [
+                  "python"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1318,12 +2066,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A robust web archive analytics toolkit",
+                "homepage": "https://resiliparse.chatnoir.eu",
                 "id": 379206472,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T08:25:08Z",
+                "open_issues": 2,
                 "owner": "chatnoir-eu",
                 "repo": "chatnoir-resiliparse",
-                "stars": 145
+                "stars": 145,
+                "topics": [
+                  "bigdata",
+                  "extraction",
+                  "htmlparser",
+                  "python",
+                  "rust",
+                  "warc",
+                  "web",
+                  "webarchive"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1334,12 +2096,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Parse And Create Web ARChive  (WARC) files with node.js",
+                "homepage": null,
                 "id": 91936471,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2025-01-29T01:33:08Z",
+                "open_issues": 23,
                 "owner": "N0taN3rd",
                 "repo": "node-warc",
-                "stars": 105
+                "stars": 105,
+                "topics": [
+                  "chrome-remote-interface",
+                  "pupeteer",
+                  "warc",
+                  "warc-files",
+                  "web-archives",
+                  "web-archiving",
+                  "webarchive",
+                  "webarchiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1350,12 +2126,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":gear: A Rust library for reading and writing WARC files",
+                "homepage": "https://docs.rs/warc/",
                 "id": 54456363,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2024-11-27T04:39:18Z",
+                "open_issues": 10,
                 "owner": "jedireza",
                 "repo": "warc",
-                "stars": 61
+                "stars": 61,
+                "topics": [
+                  "rust",
+                  "rust-library",
+                  "warc"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1366,12 +2151,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java library for reading and writing WARC files with a typed API",
+                "homepage": null,
                 "id": 42840943,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-06-27T09:48:55Z",
+                "open_issues": 20,
                 "owner": "iipc",
                 "repo": "jwarc",
-                "stars": 60
+                "stars": 60,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1382,12 +2172,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Command-line tool and Rust library for handling Web ARChive (WARC) files",
+                "homepage": null,
                 "id": 857774649,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2025-06-02T09:09:54Z",
+                "open_issues": 5,
                 "owner": "chfoo",
                 "repo": "warcat-rs",
-                "stars": 34
+                "stars": 34,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1398,12 +2193,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "golang readers for ARC and WARC webarchive formats",
+                "homepage": null,
                 "id": 42848356,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2023-04-03T22:31:12Z",
+                "open_issues": 0,
                 "owner": "richardlehane",
                 "repo": "webarchive",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1414,12 +2214,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Internet Archive's Sparkling Data Processing Library",
+                "homepage": null,
                 "id": 486628264,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2026-05-04T18:35:45Z",
+                "open_issues": 1,
                 "owner": "internetarchive",
                 "repo": "Sparkling",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1430,12 +2235,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 437369067,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2022-01-07T17:20:07Z",
+                "open_issues": 1,
                 "owner": "emmadickson",
                 "repo": "unwarcit",
-                "stars": 14
+                "stars": 14,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1446,12 +2256,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Splitable Hadoop InputFormat for Concatenated GZIP Files and *.(w)arc.gz",
+                "homepage": null,
                 "id": 65206923,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2018-02-07T14:31:16Z",
+                "open_issues": 1,
                 "owner": "helgeho",
                 "repo": "HadoopConcatGz",
-                "stars": 9
+                "stars": 9,
+                "topics": [
+                  "hadoop",
+                  "spark",
+                  "warc",
+                  "web-archiving",
+                  "webarchive"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1462,12 +2283,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JWAT Tools",
+                "homepage": null,
                 "id": 146786374,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-12-13T14:45:05Z",
+                "open_issues": 3,
                 "owner": "netarchivesuite",
                 "repo": "jwat-tools",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1478,12 +2304,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Java Web Archive Toolkit",
+                "homepage": null,
                 "id": 146783377,
                 "language": "Java",
+                "license": null,
                 "last_commit": "2023-12-13T00:00:44Z",
+                "open_issues": 5,
                 "owner": "netarchivesuite",
                 "repo": "jwat",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -1501,12 +2332,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An Apache Spark framework for easy data processing, extraction as well as derivation for web archives and archival collections, developed at Internet Archive.",
+                "homepage": null,
                 "id": 40323593,
                 "language": "Scala",
+                "license": "MIT",
                 "last_commit": "2025-10-08T20:12:43Z",
+                "open_issues": 5,
                 "owner": "helgeho",
                 "repo": "ArchiveSpark",
-                "stars": 162
+                "stars": 162,
+                "topics": [
+                  "archivespark",
+                  "internet-archive",
+                  "spark",
+                  "spark-framework",
+                  "warc",
+                  "web-archiving",
+                  "webarchive"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1517,12 +2361,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Archives Unleashed Toolkit is an open-source toolkit for analyzing web archives.",
+                "homepage": "https://aut.docs.archivesunleashed.org/",
                 "id": 96417459,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2025-12-05T02:26:14Z",
+                "open_issues": 5,
                 "owner": "archivesunleashed",
                 "repo": "aut",
-                "stars": 158
+                "stars": 158,
+                "topics": [
+                  "analysis",
+                  "apache-spark",
+                  "big-data",
+                  "big-data-analytics",
+                  "dataframe",
+                  "digital-humanities",
+                  "hadoop",
+                  "network-graphing",
+                  "pyspark",
+                  "python3",
+                  "scala",
+                  "spark",
+                  "text-extraction",
+                  "webarchives"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1533,12 +2397,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various Jupyter notebooks about Common Crawl data",
+                "homepage": null,
                 "id": 197762383,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-18T18:42:45Z",
+                "open_issues": 1,
                 "owner": "commoncrawl",
                 "repo": "cc-notebooks",
-                "stars": 68
+                "stars": 68,
+                "topics": [
+                  "aws-athena",
+                  "common-crawl",
+                  "commoncrawl",
+                  "jupyter-notebook",
+                  "webarchiving",
+                  "webgraph-framework"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1549,12 +2425,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various examples of notebooks for working with web archives with the Archives Unleashed Toolkit, and derivatives generated by the Archives Unleashed Toolkit.",
+                "homepage": null,
                 "id": 219901348,
                 "language": "Jupyter Notebook",
+                "license": "Apache-2.0",
                 "last_commit": "2022-12-05T21:05:56Z",
+                "open_issues": 0,
                 "owner": "archivesunleashed",
                 "repo": "notebooks",
-                "stars": 26
+                "stars": 26,
+                "topics": [
+                  "juypter-notebook",
+                  "notebooks",
+                  "pyspark-notebook",
+                  "python3",
+                  "spark",
+                  "web-archives"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1565,12 +2453,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Web application for distributed compute analysis of Archive-It web archive collections.",
+                "homepage": null,
                 "id": 486646532,
                 "language": "Scala",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-03-24T17:08:08Z",
+                "open_issues": 0,
                 "owner": "internetarchive",
                 "repo": "arch",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1581,12 +2474,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source toolkit for analyzing line-oriented JSON Twitter archives with Apache Spark.",
+                "homepage": null,
                 "id": 224873214,
                 "language": "Scala",
+                "license": "Apache-2.0",
                 "last_commit": "2026-03-17T20:09:27Z",
+                "open_issues": 1,
                 "owner": "archivesunleashed",
                 "repo": "twut",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "apache-spark",
+                  "spark",
+                  "spark-packages",
+                  "tweets",
+                  "twitter-data",
+                  "twitter-json"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -1604,12 +2509,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:",
+                "homepage": "https://flameshot.org",
                 "id": 90902132,
                 "language": "C++",
-                "last_commit": "2026-08-28T00:47:07Z",
+                "license": "GPL-3.0",
+                "last_commit": "2026-08-28T19:11:15Z",
+                "open_issues": 716,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30709
+                "stars": 30709,
+                "topics": [
+                  "capture",
+                  "cross-platform",
+                  "free-software",
+                  "gnu-linux",
+                  "gui",
+                  "hacktoberfest",
+                  "image-editing",
+                  "qt",
+                  "screenshot"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1620,12 +2540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "fake keyboard/mouse input, window management, and more ",
+                "homepage": null,
                 "id": 1372254,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-06-30T00:32:20Z",
+                "open_issues": 323,
                 "owner": "jordansissel",
                 "repo": "xdotool",
-                "stars": 3839
+                "stars": 3839,
+                "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -1643,12 +2568,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Create Robust Links from within Zotero",
+                "homepage": null,
                 "id": 381167163,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2022-05-10T17:27:20Z",
+                "open_issues": 3,
                 "owner": "lanl",
                 "repo": "Zotero-Robust-Links-Extension",
-                "stars": 22
+                "stars": 22,
+                "topics": [
+                  "link-rot",
+                  "memento",
+                  "reference-rot",
+                  "references",
+                  "web-archives"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -1672,12 +2608,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...",
+                "homepage": "https://archivebox.io",
                 "id": 90356372,
                 "language": "Python",
-                "last_commit": "2026-08-28T07:52:39Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:18:48Z",
+                "open_issues": 159,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28198
+                "stars": 28198,
+                "topics": [
+                  "archivebox",
+                  "backups",
+                  "bookmark-archiver",
+                  "browser-bookmarks",
+                  "chromium",
+                  "digipres",
+                  "firefox",
+                  "headless-browser",
+                  "internet-archiving",
+                  "pinboard",
+                  "pocket",
+                  "python",
+                  "rss",
+                  "self-hosted",
+                  "singlefile",
+                  "warc",
+                  "wayback-machine",
+                  "web-archiving",
+                  "wget",
+                  "youtube-dl"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -1688,12 +2650,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of things related to software, literature, and other content for 🕣 Memento",
+                "homepage": null,
                 "id": 68344736,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-05-22T20:46:34Z",
+                "open_issues": 3,
                 "owner": "machawk1",
                 "repo": "awesome-memento",
-                "stars": 121
+                "stars": 121,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "memento",
+                  "memento-rfc",
+                  "webarchiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -1717,12 +2690,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Browsertrix is the hosted, high-fidelity, browser-based crawling service from Webrecorder designed to make web archiving easier and more accessible for all!",
+                "homepage": "https://webrecorder.net/browsertrix",
                 "id": 381178875,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T03:41:54Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T01:29:50Z",
+                "open_issues": 318,
                 "owner": "webrecorder",
                 "repo": "browsertrix",
-                "stars": 464
+                "stars": 464,
+                "topics": [
+                  "archiving",
+                  "cloud",
+                  "kubernetes",
+                  "wacz",
+                  "warc",
+                  "web-archive",
+                  "web-archiving",
+                  "webrecorder"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             }
@@ -1744,12 +2731,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dead-Web Index — reachability census of the top web (alive/redirect/blocked/dead per probe arm). Data CC BY 4.0.",
+            "homepage": null,
             "id": 1269259475,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-07-28T04:30:14Z",
+            "open_issues": 0,
             "owner": "Crawlora-org",
             "repo": "dead-web-index-data",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T14:34:03.112Z"
         }
@@ -1758,15 +2750,24 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T14:34:03.112Z",
+    "last_updated": "2026-08-29T04:21:10.131Z",
     "original_repository_info": {
       "archived": false,
+      "description": "An Awesome List for getting started with web archiving",
+      "homepage": null,
       "id": 94536097,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-17T01:52:22Z",
+      "open_issues": 8,
       "owner": "iipc",
       "repo": "awesome-web-archiving",
-      "stars": 2627
+      "stars": 2627,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "webarchiving"
+      ]
     },
     "original_repository_sha": "96c9e50be561ac137a2e7d7f88b53860783eb939",
     "enhanced_repository": "enhansome/enhansome-web-archiving",
