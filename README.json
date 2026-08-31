@@ -126,7 +126,7 @@
             "open_issues": 8,
             "owner": "edgi-govdata-archiving",
             "repo": "awesome-website-change-monitoring",
-            "stars": 513,
+            "stars": 514,
             "topics": [
               "awesome-list",
               "change-detector",
@@ -174,11 +174,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T06:11:10Z",
-                "open_issues": 160,
+                "last_commit": "2026-08-31T02:32:49Z",
+                "open_issues": 161,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28206,
+                "stars": 28210,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -216,11 +216,11 @@
                 "id": 906022,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T03:00:33Z",
+                "last_commit": "2026-08-30T17:50:34Z",
                 "open_issues": 103,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22267,
+                "stars": 22278,
                 "topics": [
                   "annotations",
                   "archive",
@@ -262,7 +262,7 @@
                 "open_issues": 73,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15457,
+                "stars": 15458,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -331,7 +331,7 @@
                     "open_issues": 37,
                     "owner": "internetarchive",
                     "repo": "heritrix3",
-                    "stars": 3308,
+                    "stars": 3311,
                     "topics": [
                       "heritrix",
                       "java",
@@ -374,7 +374,7 @@
                 "open_issues": 37,
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3308,
+                "stars": 3311,
                 "topics": [
                   "heritrix",
                   "java",
@@ -442,7 +442,7 @@
                 "open_issues": 104,
                 "owner": "ArchiveTeam",
                 "repo": "grab-site",
-                "stars": 1607,
+                "stars": 1609,
                 "topics": [
                   "archiving",
                   "crawl",
@@ -590,7 +590,7 @@
                 "open_issues": 23,
                 "owner": "akamhy",
                 "repo": "waybackpy",
-                "stars": 603,
+                "stars": 604,
                 "topics": [
                   "archive-webpage",
                   "archive-webpages",
@@ -1562,7 +1562,7 @@
                 "open_issues": 103,
                 "owner": "jjjake",
                 "repo": "internetarchive",
-                "stars": 1898,
+                "stars": 1899,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -1583,7 +1583,7 @@
                 "open_issues": 171,
                 "owner": "WikiTeam",
                 "repo": "wikiteam",
-                "stars": 862,
+                "stars": 864,
                 "topics": [
                   "archive-wikis",
                   "backup",
@@ -1716,7 +1716,7 @@
                 "open_issues": 2,
                 "owner": "nla",
                 "repo": "httrack2warc",
-                "stars": 36,
+                "stars": 37,
                 "topics": [
                   "web-archiving"
                 ]
@@ -2132,7 +2132,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-06-27T09:48:55Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "iipc",
                 "repo": "jwarc",
                 "stars": 61,
@@ -2514,11 +2514,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-08-28T19:11:15Z",
-                "open_issues": 718,
+                "last_commit": "2026-08-30T08:50:34Z",
+                "open_issues": 717,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30717,
+                "stars": 30729,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -2613,11 +2613,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-08-30T06:11:10Z",
-                "open_issues": 160,
+                "last_commit": "2026-08-31T02:32:49Z",
+                "open_issues": 161,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28206,
+                "stars": 28210,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -2695,11 +2695,11 @@
                 "id": 381178875,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T18:21:22Z",
+                "last_commit": "2026-08-30T22:43:01Z",
                 "open_issues": 318,
                 "owner": "webrecorder",
                 "repo": "browsertrix",
-                "stars": 466,
+                "stars": 467,
                 "topics": [
                   "archiving",
                   "cloud",
@@ -2750,7 +2750,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T08:31:13.266Z",
+    "last_updated": "2026-08-31T08:52:37.770Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",
@@ -2762,7 +2762,7 @@
       "open_issues": 8,
       "owner": "iipc",
       "repo": "awesome-web-archiving",
-      "stars": 2629,
+      "stars": 2631,
       "topics": [
         "awesome",
         "awesome-list",
