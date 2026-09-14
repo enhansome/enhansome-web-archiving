@@ -174,11 +174,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T21:08:53Z",
+                "last_commit": "2026-09-14T07:26:01Z",
                 "open_issues": 159,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28335,
+                "stars": 28420,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -216,11 +216,11 @@
                 "id": 906022,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-13T00:00:54Z",
+                "last_commit": "2026-09-14T00:02:17Z",
                 "open_issues": 102,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22377,
+                "stars": 22390,
                 "topics": [
                   "annotations",
                   "archive",
@@ -260,7 +260,7 @@
                 "open_issues": 73,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15475,
+                "stars": 15480,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -325,7 +325,7 @@
                     "id": 2623406,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-10T21:57:00Z",
+                    "last_commit": "2026-09-14T05:55:49Z",
                     "open_issues": 38,
                     "owner": "internetarchive",
                     "repo": "heritrix3",
@@ -368,7 +368,7 @@
                 "id": 2623406,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-10T21:57:00Z",
+                "last_commit": "2026-09-14T05:55:49Z",
                 "open_issues": 38,
                 "owner": "internetarchive",
                 "repo": "heritrix3",
@@ -488,7 +488,7 @@
                 "open_issues": 147,
                 "owner": "webrecorder",
                 "repo": "browsertrix-crawler",
-                "stars": 1134,
+                "stars": 1135,
                 "topics": [
                   "crawler",
                   "crawling",
@@ -697,7 +697,7 @@
                 "open_issues": 10,
                 "owner": "go-shiori",
                 "repo": "obelisk",
-                "stars": 320,
+                "stars": 321,
                 "topics": [
                   "archive",
                   "cli",
@@ -895,7 +895,7 @@
                 "open_issues": 28,
                 "owner": "wabarc",
                 "repo": "cairn",
-                "stars": 51,
+                "stars": 52,
                 "topics": [
                   "archive",
                   "base64",
@@ -1560,7 +1560,7 @@
                 "open_issues": 105,
                 "owner": "jjjake",
                 "repo": "internetarchive",
-                "stars": 1904,
+                "stars": 1905,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -1581,7 +1581,7 @@
                 "open_issues": 171,
                 "owner": "WikiTeam",
                 "repo": "wikiteam",
-                "stars": 866,
+                "stars": 867,
                 "topics": [
                   "archive-wikis",
                   "backup",
@@ -1737,7 +1737,7 @@
                 "open_issues": 3,
                 "owner": "harvard-lil",
                 "repo": "warcbench",
-                "stars": 25,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2073,7 +2073,7 @@
                 "open_issues": 2,
                 "owner": "chatnoir-eu",
                 "repo": "chatnoir-resiliparse",
-                "stars": 148,
+                "stars": 149,
                 "topics": [
                   "bigdata",
                   "extraction",
@@ -2513,10 +2513,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T19:37:40Z",
-                "open_issues": 720,
+                "open_issues": 721,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30838,
+                "stars": 30842,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -2611,11 +2611,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-11T21:08:53Z",
+                "last_commit": "2026-09-14T07:26:01Z",
                 "open_issues": 159,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28335,
+                "stars": 28420,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -2748,7 +2748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T07:38:24.277Z",
+    "last_updated": "2026-09-14T08:05:36.273Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",
@@ -2757,7 +2757,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-08-17T01:52:22Z",
-      "open_issues": 9,
+      "open_issues": 10,
       "owner": "iipc",
       "repo": "awesome-web-archiving",
       "stars": 2640,
