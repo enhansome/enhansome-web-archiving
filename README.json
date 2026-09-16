@@ -174,11 +174,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T07:26:01Z",
-                "open_issues": 159,
+                "last_commit": "2026-09-16T03:07:17Z",
+                "open_issues": 161,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28439,
+                "stars": 28462,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -217,10 +217,10 @@
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-09-15T00:35:00Z",
-                "open_issues": 101,
+                "open_issues": 102,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22400,
+                "stars": 22402,
                 "topics": [
                   "annotations",
                   "archive",
@@ -260,7 +260,7 @@
                 "open_issues": 73,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15484,
+                "stars": 15485,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -398,7 +398,7 @@
                 "open_issues": 63,
                 "owner": "wabarc",
                 "repo": "wayback",
-                "stars": 2231,
+                "stars": 2230,
                 "topics": [
                   "archive",
                   "har",
@@ -467,7 +467,7 @@
                 "open_issues": 47,
                 "owner": "DocNow",
                 "repo": "twarc",
-                "stars": 1393,
+                "stars": 1394,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -488,7 +488,7 @@
                 "open_issues": 147,
                 "owner": "webrecorder",
                 "repo": "browsertrix-crawler",
-                "stars": 1136,
+                "stars": 1139,
                 "topics": [
                   "crawler",
                   "crawling",
@@ -517,7 +517,7 @@
                 "open_issues": 12,
                 "owner": "bellingcat",
                 "repo": "auto-archiver",
-                "stars": 1114,
+                "stars": 1115,
                 "topics": [
                   "archive",
                   "docker",
@@ -585,7 +585,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2024-02-26T00:15:49Z",
-                "open_issues": 22,
+                "open_issues": 23,
                 "owner": "akamhy",
                 "repo": "waybackpy",
                 "stars": 604,
@@ -643,7 +643,7 @@
                 "open_issues": 17,
                 "owner": "oduwsdl",
                 "repo": "archivenow",
-                "stars": 434,
+                "stars": 435,
                 "topics": [
                   "internet-archive",
                   "web-archiving"
@@ -843,8 +843,8 @@
                 "id": 217758345,
                 "language": "Python",
                 "license": "LGPL-3.0",
-                "last_commit": "2026-09-12T20:47:42Z",
-                "open_issues": 11,
+                "last_commit": "2026-09-15T18:05:32Z",
+                "open_issues": 10,
                 "owner": "turicas",
                 "repo": "crau",
                 "stars": 65,
@@ -1028,7 +1028,7 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T01:36:29Z",
-                "open_issues": 182,
+                "open_issues": 183,
                 "owner": "webrecorder",
                 "repo": "pywb",
                 "stars": 1701,
@@ -1058,7 +1058,7 @@
                 "open_issues": 160,
                 "owner": "oduwsdl",
                 "repo": "ipwb",
-                "stars": 656,
+                "stars": 657,
                 "topics": [
                   "docker",
                   "ipfs",
@@ -1155,8 +1155,8 @@
                 "id": 81312331,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-14T11:09:12Z",
-                "open_issues": 66,
+                "last_commit": "2026-09-15T12:10:29Z",
+                "open_issues": 64,
                 "owner": "netarchivesuite",
                 "repo": "solrwayback",
                 "stars": 147,
@@ -1556,11 +1556,11 @@
                 "id": 5430433,
                 "language": "Python",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-25T15:26:22Z",
-                "open_issues": 105,
+                "last_commit": "2026-09-15T15:23:14Z",
+                "open_issues": 106,
                 "owner": "jjjake",
                 "repo": "internetarchive",
-                "stars": 1904,
+                "stars": 1905,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -1643,11 +1643,35 @@
                 "open_issues": 49,
                 "owner": "oduwsdl",
                 "repo": "MemGator",
-                "stars": 80,
+                "stars": 81,
                 "topics": [
                   "memento",
                   "memento-rfc",
                   "timemap",
+                  "web-archiving"
+                ]
+              },
+              "first_seen": "2026-08-28T14:34:03.112Z"
+            },
+            {
+              "node_type": "item",
+              "title": "OutbackCDX",
+              "description": "RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and Heritrix. (Stable)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Web archive index server based on RocksDB",
+                "homepage": null,
+                "id": 29324130,
+                "language": "Java",
+                "license": "Apache-2.0",
+                "last_commit": "2026-09-01T07:52:34Z",
+                "open_issues": 23,
+                "owner": "nla",
+                "repo": "outbackcdx",
+                "stars": 46,
+                "topics": [
+                  "wayback",
                   "web-archiving"
                 ]
               },
@@ -1671,30 +1695,6 @@
                 "repo": "webarchive-indexing",
                 "stars": 46,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T14:34:03.112Z"
-            },
-            {
-              "node_type": "item",
-              "title": "OutbackCDX",
-              "description": "RocksDB-based capture index (CDX) server supporting incremental updates and compression. Can be used as backend for OpenWayback, PyWb and Heritrix. (Stable)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Web archive index server based on RocksDB",
-                "homepage": null,
-                "id": 29324130,
-                "language": "Java",
-                "license": "Apache-2.0",
-                "last_commit": "2026-09-01T07:52:34Z",
-                "open_issues": 23,
-                "owner": "nla",
-                "repo": "outbackcdx",
-                "stars": 45,
-                "topics": [
-                  "wayback",
-                  "web-archiving"
-                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -2133,7 +2133,7 @@
                 "open_issues": 19,
                 "owner": "iipc",
                 "repo": "jwarc",
-                "stars": 62,
+                "stars": 63,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2513,10 +2513,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-12T19:37:40Z",
-                "open_issues": 721,
+                "open_issues": 722,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30853,
+                "stars": 30863,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -2611,11 +2611,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-14T07:26:01Z",
-                "open_issues": 159,
+                "last_commit": "2026-09-16T03:07:17Z",
+                "open_issues": 161,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28439,
+                "stars": 28462,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -2657,7 +2657,7 @@
                 "open_issues": 3,
                 "owner": "machawk1",
                 "repo": "awesome-memento",
-                "stars": 122,
+                "stars": 124,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2693,11 +2693,11 @@
                 "id": 381178875,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-15T01:11:35Z",
-                "open_issues": 322,
+                "last_commit": "2026-09-16T00:25:06Z",
+                "open_issues": 330,
                 "owner": "webrecorder",
                 "repo": "browsertrix",
-                "stars": 474,
+                "stars": 475,
                 "topics": [
                   "archiving",
                   "cloud",
@@ -2748,7 +2748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T08:00:16.258Z",
+    "last_updated": "2026-09-16T07:53:06.531Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",
@@ -2760,7 +2760,7 @@
       "open_issues": 10,
       "owner": "iipc",
       "repo": "awesome-web-archiving",
-      "stars": 2641,
+      "stars": 2642,
       "topics": [
         "awesome",
         "awesome-list",
