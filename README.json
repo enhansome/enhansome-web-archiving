@@ -174,11 +174,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-17T00:19:02Z",
+                "last_commit": "2026-09-18T07:30:58Z",
                 "open_issues": 160,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28479,
+                "stars": 28492,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -216,11 +216,11 @@
                 "id": 906022,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T23:36:56Z",
-                "open_issues": 101,
+                "last_commit": "2026-09-17T10:44:05Z",
+                "open_issues": 99,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22412,
+                "stars": 22418,
                 "topics": [
                   "annotations",
                   "archive",
@@ -260,7 +260,7 @@
                 "open_issues": 73,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15486,
+                "stars": 15485,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -325,8 +325,8 @@
                     "id": 2623406,
                     "language": "Java",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-15T01:14:28Z",
-                    "open_issues": 41,
+                    "last_commit": "2026-09-17T08:21:02Z",
+                    "open_issues": 40,
                     "owner": "internetarchive",
                     "repo": "heritrix3",
                     "stars": 3319,
@@ -368,8 +368,8 @@
                 "id": 2623406,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-15T01:14:28Z",
-                "open_issues": 41,
+                "last_commit": "2026-09-17T08:21:02Z",
+                "open_issues": 40,
                 "owner": "internetarchive",
                 "repo": "heritrix3",
                 "stars": 3319,
@@ -484,8 +484,8 @@
                 "id": 309258998,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-17T02:52:54Z",
-                "open_issues": 147,
+                "last_commit": "2026-09-18T03:30:22Z",
+                "open_issues": 145,
                 "owner": "webrecorder",
                 "repo": "browsertrix-crawler",
                 "stars": 1140,
@@ -517,7 +517,7 @@
                 "open_issues": 12,
                 "owner": "bellingcat",
                 "repo": "auto-archiver",
-                "stars": 1116,
+                "stars": 1118,
                 "topics": [
                   "archive",
                   "docker",
@@ -588,7 +588,7 @@
                 "open_issues": 23,
                 "owner": "akamhy",
                 "repo": "waybackpy",
-                "stars": 604,
+                "stars": 605,
                 "topics": [
                   "archive-webpage",
                   "archive-webpages",
@@ -882,7 +882,7 @@
             {
               "node_type": "item",
               "title": "Cairn",
-              "description": "A npm package and CLI tool for saving webpages. (Stable)",
+              "description": "A npm package and CLI tool for saving webpages as single HTML files. It does not produce WARC or WACZ archives. (Stable)",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1028,7 +1028,7 @@
                 "language": "JavaScript",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T01:36:29Z",
-                "open_issues": 183,
+                "open_issues": 184,
                 "owner": "webrecorder",
                 "repo": "pywb",
                 "stars": 1700,
@@ -1155,7 +1155,7 @@
                 "id": 81312331,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-15T12:10:29Z",
+                "last_commit": "2026-09-18T06:42:42Z",
                 "open_issues": 62,
                 "owner": "netarchivesuite",
                 "repo": "solrwayback",
@@ -1560,7 +1560,7 @@
                 "open_issues": 107,
                 "owner": "jjjake",
                 "repo": "internetarchive",
-                "stars": 1906,
+                "stars": 1907,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -1714,7 +1714,7 @@
                 "open_issues": 2,
                 "owner": "nla",
                 "repo": "httrack2warc",
-                "stars": 37,
+                "stars": 38,
                 "topics": [
                   "web-archiving"
                 ]
@@ -2133,7 +2133,7 @@
                 "open_issues": 19,
                 "owner": "iipc",
                 "repo": "jwarc",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2364,7 +2364,7 @@
                 "id": 96417459,
                 "language": "Scala",
                 "license": "Apache-2.0",
-                "last_commit": "2025-12-05T02:26:14Z",
+                "last_commit": "2026-09-17T23:25:04Z",
                 "open_issues": 5,
                 "owner": "archivesunleashed",
                 "repo": "aut",
@@ -2512,11 +2512,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T05:30:51Z",
-                "open_issues": 723,
+                "last_commit": "2026-09-17T21:37:22Z",
+                "open_issues": 724,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30870,
+                "stars": 30881,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -2547,7 +2547,7 @@
                 "open_issues": 325,
                 "owner": "jordansissel",
                 "repo": "xdotool",
-                "stars": 3847,
+                "stars": 3846,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2562,7 +2562,7 @@
             {
               "node_type": "item",
               "title": "Zotero Robust Links Extension",
-              "description": "A Zotero extension that submits to and reads from web archives. Source on GitHub. Supercedes leonkt/zotero-memento.",
+              "description": "A Zotero extension that submits to and reads from web archives. Supercedes leonkt/zotero-memento.",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2611,11 +2611,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-17T00:19:02Z",
+                "last_commit": "2026-09-18T07:30:58Z",
                 "open_issues": 160,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28479,
+                "stars": 28492,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -2693,8 +2693,8 @@
                 "id": 381178875,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T22:16:08Z",
-                "open_issues": 326,
+                "last_commit": "2026-09-17T23:07:46Z",
+                "open_issues": 327,
                 "owner": "webrecorder",
                 "repo": "browsertrix",
                 "stars": 475,
@@ -2748,7 +2748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T07:57:28.870Z",
+    "last_updated": "2026-09-18T07:35:41.458Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",
@@ -2756,18 +2756,18 @@
       "id": 94536097,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-08-17T01:52:22Z",
-      "open_issues": 11,
+      "last_commit": "2026-09-18T06:31:55Z",
+      "open_issues": 9,
       "owner": "iipc",
       "repo": "awesome-web-archiving",
-      "stars": 2643,
+      "stars": 2644,
       "topics": [
         "awesome",
         "awesome-list",
         "webarchiving"
       ]
     },
-    "original_repository_sha": "96c9e50be561ac137a2e7d7f88b53860783eb939",
+    "original_repository_sha": "2854531fa3eddde3b2b15bc09455b4ca5853e1db",
     "enhanced_repository": "enhansome/enhansome-web-archiving",
     "enhanced_repository_description": null,
     "title": "Awesome Web Archiving with stars"
