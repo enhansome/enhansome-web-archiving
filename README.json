@@ -174,11 +174,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T06:58:06Z",
+                "last_commit": "2026-09-20T07:52:30Z",
                 "open_issues": 160,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28512,
+                "stars": 28541,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -216,11 +216,11 @@
                 "id": 906022,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-17T10:44:05Z",
+                "last_commit": "2026-09-20T01:08:12Z",
                 "open_issues": 99,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22426,
+                "stars": 22436,
                 "topics": [
                   "annotations",
                   "archive",
@@ -290,7 +290,7 @@
                 "open_issues": 4,
                 "owner": "DO-SAY-GO",
                 "repo": "tdf",
-                "stars": 3909,
+                "stars": 3908,
                 "topics": [
                   "archive",
                   "archiver",
@@ -329,7 +329,7 @@
                     "open_issues": 40,
                     "owner": "internetarchive",
                     "repo": "heritrix3",
-                    "stars": 3319,
+                    "stars": 3320,
                     "topics": [
                       "heritrix",
                       "java",
@@ -372,7 +372,7 @@
                 "open_issues": 40,
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3319,
+                "stars": 3320,
                 "topics": [
                   "heritrix",
                   "java",
@@ -891,7 +891,7 @@
                 "id": 302261532,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T12:16:57Z",
+                "last_commit": "2026-09-19T15:45:39Z",
                 "open_issues": 28,
                 "owner": "wabarc",
                 "repo": "cairn",
@@ -2002,7 +2002,7 @@
                 "open_issues": 63,
                 "owner": "webrecorder",
                 "repo": "warcio",
-                "stars": 473,
+                "stars": 474,
                 "topics": [
                   "python",
                   "pywb",
@@ -2513,10 +2513,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-17T21:37:22Z",
-                "open_issues": 723,
+                "open_issues": 724,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 30891,
+                "stars": 30893,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -2547,7 +2547,7 @@
                 "open_issues": 325,
                 "owner": "jordansissel",
                 "repo": "xdotool",
-                "stars": 3845,
+                "stars": 3844,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2611,11 +2611,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-19T06:58:06Z",
+                "last_commit": "2026-09-20T07:52:30Z",
                 "open_issues": 160,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28512,
+                "stars": 28541,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -2697,7 +2697,7 @@
                 "open_issues": 328,
                 "owner": "webrecorder",
                 "repo": "browsertrix",
-                "stars": 475,
+                "stars": 476,
                 "topics": [
                   "archiving",
                   "cloud",
@@ -2748,7 +2748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T07:31:01.379Z",
+    "last_updated": "2026-09-20T07:54:21.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",
@@ -2760,7 +2760,7 @@
       "open_issues": 9,
       "owner": "iipc",
       "repo": "awesome-web-archiving",
-      "stars": 2644,
+      "stars": 2647,
       "topics": [
         "awesome",
         "awesome-list",
