@@ -174,7 +174,7 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T08:41:36Z",
+                "last_commit": "2026-10-05T03:06:00Z",
                 "open_issues": 162,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
@@ -216,11 +216,11 @@
                 "id": 906022,
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-03T01:49:22Z",
-                "open_issues": 99,
+                "last_commit": "2026-10-04T13:40:03Z",
+                "open_issues": 100,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22528,
+                "stars": 22538,
                 "topics": [
                   "annotations",
                   "archive",
@@ -256,11 +256,11 @@
                 "id": 82530909,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-04T06:46:30Z",
-                "open_issues": 70,
+                "last_commit": "2026-10-05T00:23:14Z",
+                "open_issues": 62,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15508,
+                "stars": 15509,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -329,7 +329,7 @@
                     "open_issues": 36,
                     "owner": "internetarchive",
                     "repo": "heritrix3",
-                    "stars": 3328,
+                    "stars": 3329,
                     "topics": [
                       "heritrix",
                       "java",
@@ -372,7 +372,7 @@
                 "open_issues": 36,
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3328,
+                "stars": 3329,
                 "topics": [
                   "heritrix",
                   "java",
@@ -398,7 +398,7 @@
                 "open_issues": 64,
                 "owner": "wabarc",
                 "repo": "wayback",
-                "stars": 2237,
+                "stars": 2236,
                 "topics": [
                   "archive",
                   "har",
@@ -440,7 +440,7 @@
                 "open_issues": 103,
                 "owner": "ArchiveTeam",
                 "repo": "grab-site",
-                "stars": 1613,
+                "stars": 1614,
                 "topics": [
                   "archiving",
                   "crawl",
@@ -546,7 +546,7 @@
                 "open_issues": 64,
                 "owner": "internetarchive",
                 "repo": "brozzler",
-                "stars": 822,
+                "stars": 821,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -1155,8 +1155,8 @@
                 "id": 81312331,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-29T07:01:34Z",
-                "open_issues": 61,
+                "last_commit": "2026-10-05T07:16:44Z",
+                "open_issues": 62,
                 "owner": "netarchivesuite",
                 "repo": "solrwayback",
                 "stars": 148,
@@ -1560,7 +1560,7 @@
                 "open_issues": 111,
                 "owner": "jjjake",
                 "repo": "internetarchive",
-                "stars": 1915,
+                "stars": 1916,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2002,7 +2002,7 @@
                 "open_issues": 64,
                 "owner": "webrecorder",
                 "repo": "warcio",
-                "stars": 478,
+                "stars": 479,
                 "topics": [
                   "python",
                   "pywb",
@@ -2516,7 +2516,7 @@
                 "open_issues": 743,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31078,
+                "stars": 31084,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -2544,10 +2544,10 @@
                 "language": "C",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-20T16:35:04Z",
-                "open_issues": 324,
+                "open_issues": 325,
                 "owner": "jordansissel",
                 "repo": "xdotool",
-                "stars": 3852,
+                "stars": 3855,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2611,7 +2611,7 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-04T08:41:36Z",
+                "last_commit": "2026-10-05T03:06:00Z",
                 "open_issues": 162,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
@@ -2657,7 +2657,7 @@
                 "open_issues": 3,
                 "owner": "machawk1",
                 "repo": "awesome-memento",
-                "stars": 125,
+                "stars": 126,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2693,11 +2693,11 @@
                 "id": 381178875,
                 "language": "TypeScript",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-04T03:54:59Z",
+                "last_commit": "2026-10-04T23:53:58Z",
                 "open_issues": 332,
                 "owner": "webrecorder",
                 "repo": "browsertrix",
-                "stars": 481,
+                "stars": 482,
                 "topics": [
                   "archiving",
                   "cloud",
@@ -2748,7 +2748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T08:43:25.765Z",
+    "last_updated": "2026-10-05T09:34:32.717Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",
