@@ -220,7 +220,7 @@
                 "open_issues": 100,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22540,
+                "stars": 22541,
                 "topics": [
                   "annotations",
                   "archive",
@@ -2516,7 +2516,7 @@
                 "open_issues": 743,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31095,
+                "stars": 31097,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -2748,7 +2748,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T09:22:06.053Z",
+    "last_updated": "2026-10-06T11:00:27.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",

@@ -82,7 +82,7 @@ This list of tools and software is intended to briefly describe some of the most
 ### Acquisition
 
 * [ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) ⭐ 28,692 | 🐛 162 | 🌐 Python | 📅 2026-10-06 - A tool which maintains an additive archive from RSS feeds, bookmarks, and links using wget, Chrome headless, and other methods (formerly `Bookmark Archiver`). *(In Development)*
-* [SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,540 | 🐛 100 | 🌐 JavaScript | 📅 2026-10-05 - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
+* [SingleFile](https://github.com/gildas-lormeau/SingleFile) ⭐ 22,541 | 🐛 100 | 🌐 JavaScript | 📅 2026-10-05 - Browser extension for Firefox/Chrome and CLI tool to save a faithful copy of a complete page as a single HTML file. *(Stable)*
 * [monolith](https://github.com/Y2Z/monolith) ⭐ 15,509 | 🐛 59 | 🌐 Rust | 📅 2026-10-06 - CLI tool to save a web page as a single HTML file. *(Stable)*
 * [DiskerNet](https://github.com/DO-SAY-GO/dn) ⭐ 3,910 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-02 - A non-WARC-based tool which hooks into the Chrome browser and archives everything you browse making it available for offline replay. *(In Development)*
 * [Heritrix](https://github.com/internetarchive/heritrix3/wiki) ⭐ 3,330 | 🐛 35 | 🌐 Java | 📅 2026-10-06 - An open source, extensible, web-scale, archival quality web crawler. *(Stable)*
@@ -217,7 +217,7 @@ This list of tools and software is intended to briefly describe some of the most
 
 ### Quality Assurance
 
-* [FlameShot](https://github.com/flameshot-org/flameshot) ⭐ 31,095 | 🐛 743 | 🌐 C++ | 📅 2026-10-03 - Screen capture and annotation on Ubuntu.
+* [FlameShot](https://github.com/flameshot-org/flameshot) ⭐ 31,097 | 🐛 743 | 🌐 C++ | 📅 2026-10-03 - Screen capture and annotation on Ubuntu.
 * [xDoTool](https://github.com/jordansissel/xdotool) ⭐ 3,855 | 🐛 325 | 🌐 C | 📅 2026-09-20 - Click automation on Ubuntu.
 * [Chrome Check My Links](https://chromewebstore.google.com/detail/check-my-links/ojkcdipcgfaekbeaelaapakgnjflfglf) - Browser extension: a link checker with more options.
 * [Chrome link checker](https://chromewebstore.google.com/detail/link-checker/aibjbgmpmnidnmagaefhmcjhadpffaoi) - Browser extension: basic link checker.
