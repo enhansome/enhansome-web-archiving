@@ -178,7 +178,7 @@
                 "open_issues": 158,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28865,
+                "stars": 28879,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -217,10 +217,10 @@
                 "language": "JavaScript",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-23T00:16:30Z",
-                "open_issues": 103,
+                "open_issues": 105,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22709,
+                "stars": 22720,
                 "topics": [
                   "annotations",
                   "archive",
@@ -256,11 +256,11 @@
                 "id": 82530909,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-10-16T22:54:56Z",
+                "last_commit": "2026-10-24T17:20:44Z",
                 "open_issues": 51,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15523,
+                "stars": 15540,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -329,7 +329,7 @@
                     "open_issues": 34,
                     "owner": "internetarchive",
                     "repo": "heritrix3",
-                    "stars": 3340,
+                    "stars": 3341,
                     "topics": [
                       "heritrix",
                       "java",
@@ -372,7 +372,7 @@
                 "open_issues": 34,
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3340,
+                "stars": 3341,
                 "topics": [
                   "heritrix",
                   "java",
@@ -398,7 +398,7 @@
                 "open_issues": 65,
                 "owner": "wabarc",
                 "repo": "wayback",
-                "stars": 2247,
+                "stars": 2248,
                 "topics": [
                   "archive",
                   "har",
@@ -488,7 +488,7 @@
                 "open_issues": 150,
                 "owner": "webrecorder",
                 "repo": "browsertrix-crawler",
-                "stars": 1173,
+                "stars": 1175,
                 "topics": [
                   "crawler",
                   "crawling",
@@ -694,7 +694,7 @@
                 "language": "Go",
                 "license": "MIT",
                 "last_commit": "2026-02-01T07:04:04Z",
-                "open_issues": 10,
+                "open_issues": 11,
                 "owner": "go-shiori",
                 "repo": "obelisk",
                 "stars": 322,
@@ -745,7 +745,7 @@
                 "open_issues": 13,
                 "owner": "harvard-lil",
                 "repo": "scoop",
-                "stars": 215,
+                "stars": 216,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -891,8 +891,8 @@
                 "id": 302261532,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-17T07:32:21Z",
-                "open_issues": 28,
+                "last_commit": "2026-10-24T08:00:46Z",
+                "open_issues": 27,
                 "owner": "wabarc",
                 "repo": "cairn",
                 "stars": 50,
@@ -1339,8 +1339,8 @@
                 "id": 355937385,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-21T01:11:34Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-24T07:40:06Z",
+                "open_issues": 7,
                 "owner": "wabarc",
                 "repo": "playback",
                 "stars": 13,
@@ -1560,7 +1560,7 @@
                 "open_issues": 117,
                 "owner": "jjjake",
                 "repo": "internetarchive",
-                "stars": 1925,
+                "stars": 1926,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2513,10 +2513,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-22T15:35:35Z",
-                "open_issues": 739,
+                "open_issues": 740,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31304,
+                "stars": 31316,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -2547,7 +2547,7 @@
                 "open_issues": 327,
                 "owner": "jordansissel",
                 "repo": "xdotool",
-                "stars": 3863,
+                "stars": 3864,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2615,7 +2615,7 @@
                 "open_issues": 158,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28865,
+                "stars": 28879,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -2758,7 +2758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T07:34:08.192Z",
+    "last_updated": "2026-10-25T07:47:23.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",
