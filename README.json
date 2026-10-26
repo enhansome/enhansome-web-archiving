@@ -174,11 +174,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T23:56:46Z",
+                "last_commit": "2026-10-26T07:39:08Z",
                 "open_issues": 158,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28879,
+                "stars": 28888,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -220,7 +220,7 @@
                 "open_issues": 105,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22720,
+                "stars": 22728,
                 "topics": [
                   "annotations",
                   "archive",
@@ -260,7 +260,7 @@
                 "open_issues": 51,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15540,
+                "stars": 15545,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -488,7 +488,7 @@
                 "open_issues": 150,
                 "owner": "webrecorder",
                 "repo": "browsertrix-crawler",
-                "stars": 1175,
+                "stars": 1178,
                 "topics": [
                   "crawler",
                   "crawling",
@@ -546,7 +546,7 @@
                 "open_issues": 64,
                 "owner": "internetarchive",
                 "repo": "brozzler",
-                "stars": 822,
+                "stars": 823,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -961,7 +961,7 @@
                 "open_issues": 1,
                 "owner": "helgeho",
                 "repo": "Web2Warc",
-                "stars": 26,
+                "stars": 27,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -1027,11 +1027,11 @@
                 "id": 15037172,
                 "language": "Python",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T08:45:34Z",
-                "open_issues": 188,
+                "last_commit": "2026-10-26T06:36:33Z",
+                "open_issues": 189,
                 "owner": "webrecorder",
                 "repo": "pywb",
-                "stars": 1711,
+                "stars": 1712,
                 "topics": [
                   "python",
                   "pywb",
@@ -1058,7 +1058,7 @@
                 "open_issues": 160,
                 "owner": "oduwsdl",
                 "repo": "ipwb",
-                "stars": 659,
+                "stars": 658,
                 "topics": [
                   "docker",
                   "ipfs",
@@ -1155,7 +1155,7 @@
                 "id": 81312331,
                 "language": "Java",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T09:57:30Z",
+                "last_commit": "2026-10-26T07:26:10Z",
                 "open_issues": 62,
                 "owner": "netarchivesuite",
                 "repo": "solrwayback",
@@ -1322,7 +1322,7 @@
                 "open_issues": 1,
                 "owner": "Guillaume-Levrier",
                 "repo": "PANDORAE",
-                "stars": 16,
+                "stars": 17,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -1369,7 +1369,7 @@
                 "open_issues": 1,
                 "owner": "nabertronic",
                 "repo": "pastpage",
-                "stars": 9,
+                "stars": 10,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -1998,8 +1998,8 @@
                 "id": 84105710,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-18T00:03:34Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-26T05:23:19Z",
+                "open_issues": 64,
                 "owner": "webrecorder",
                 "repo": "warcio",
                 "stars": 482,
@@ -2512,11 +2512,11 @@
                 "id": 90902132,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-22T15:35:35Z",
-                "open_issues": 740,
+                "last_commit": "2026-10-25T15:52:45Z",
+                "open_issues": 738,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31316,
+                "stars": 31326,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -2611,11 +2611,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-23T23:56:46Z",
+                "last_commit": "2026-10-26T07:39:08Z",
                 "open_issues": 158,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28879,
+                "stars": 28888,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -2758,7 +2758,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T07:47:23.707Z",
+    "last_updated": "2026-10-26T08:04:33.837Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",
@@ -2770,7 +2770,7 @@
       "open_issues": 12,
       "owner": "iipc",
       "repo": "awesome-web-archiving",
-      "stars": 2667,
+      "stars": 2668,
       "topics": [
         "awesome",
         "awesome-list",
