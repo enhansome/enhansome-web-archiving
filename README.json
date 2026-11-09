@@ -123,7 +123,7 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-08-11T19:40:32Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "edgi-govdata-archiving",
             "repo": "awesome-website-change-monitoring",
             "stars": 515,
@@ -174,11 +174,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T07:39:39Z",
+                "last_commit": "2026-11-09T00:13:41Z",
                 "open_issues": 160,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28972,
+                "stars": 28983,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -220,7 +220,7 @@
                 "open_issues": 95,
                 "owner": "gildas-lormeau",
                 "repo": "SingleFile",
-                "stars": 22860,
+                "stars": 22868,
                 "topics": [
                   "annotations",
                   "archive",
@@ -260,7 +260,7 @@
                 "open_issues": 51,
                 "owner": "Y2Z",
                 "repo": "monolith",
-                "stars": 15599,
+                "stars": 15597,
                 "topics": [
                   "come-and-take-it",
                   "e-hoarding",
@@ -290,7 +290,7 @@
                 "open_issues": 3,
                 "owner": "DO-SAY-GO",
                 "repo": "tdf",
-                "stars": 3906,
+                "stars": 3905,
                 "topics": [
                   "archive",
                   "archiver",
@@ -329,7 +329,7 @@
                     "open_issues": 44,
                     "owner": "internetarchive",
                     "repo": "heritrix3",
-                    "stars": 3347,
+                    "stars": 3348,
                     "topics": [
                       "heritrix",
                       "java",
@@ -372,7 +372,7 @@
                 "open_issues": 44,
                 "owner": "internetarchive",
                 "repo": "heritrix3",
-                "stars": 3347,
+                "stars": 3348,
                 "topics": [
                   "heritrix",
                   "java",
@@ -394,11 +394,11 @@
                 "id": 271984275,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-03T02:02:14Z",
+                "last_commit": "2026-11-08T14:13:08Z",
                 "open_issues": 65,
                 "owner": "wabarc",
                 "repo": "wayback",
-                "stars": 2251,
+                "stars": 2252,
                 "topics": [
                   "archive",
                   "har",
@@ -440,7 +440,7 @@
                 "open_issues": 103,
                 "owner": "ArchiveTeam",
                 "repo": "grab-site",
-                "stars": 1618,
+                "stars": 1617,
                 "topics": [
                   "archiving",
                   "crawl",
@@ -543,11 +543,45 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-06T22:53:23Z",
-                "open_issues": 61,
+                "open_issues": 63,
                 "owner": "internetarchive",
                 "repo": "brozzler",
                 "stars": 822,
                 "topics": []
+              },
+              "first_seen": "2026-08-28T14:34:03.112Z"
+            },
+            {
+              "node_type": "item",
+              "title": "Waybackpy",
+              "description": "Wayback Machine Save, CDX and availability API interface in Python and a command-line tool (Stable)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Wayback Machine API interface & a command-line tool",
+                "homepage": "https://pypi.org/project/waybackpy/",
+                "id": 260652547,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2024-02-26T00:15:49Z",
+                "open_issues": 24,
+                "owner": "akamhy",
+                "repo": "waybackpy",
+                "stars": 613,
+                "topics": [
+                  "archive-webpage",
+                  "archive-webpages",
+                  "cdx-api",
+                  "internet-archive",
+                  "internet-archiving",
+                  "osint",
+                  "savepagenow",
+                  "wayback-machine",
+                  "wayback-machine-api",
+                  "wayback-machine-python",
+                  "web-archiving",
+                  "webarchiving"
+                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -569,40 +603,6 @@
                 "repo": "wpull",
                 "stars": 613,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T14:34:03.112Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Waybackpy",
-              "description": "Wayback Machine Save, CDX and availability API interface in Python and a command-line tool (Stable)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Wayback Machine API interface & a command-line tool",
-                "homepage": "https://pypi.org/project/waybackpy/",
-                "id": 260652547,
-                "language": "Python",
-                "license": "MIT",
-                "last_commit": "2024-02-26T00:15:49Z",
-                "open_issues": 24,
-                "owner": "akamhy",
-                "repo": "waybackpy",
-                "stars": 612,
-                "topics": [
-                  "archive-webpage",
-                  "archive-webpages",
-                  "cdx-api",
-                  "internet-archive",
-                  "internet-archiving",
-                  "osint",
-                  "savepagenow",
-                  "wayback-machine",
-                  "wayback-machine-api",
-                  "wayback-machine-python",
-                  "web-archiving",
-                  "webarchiving"
-                ]
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
             },
@@ -697,7 +697,7 @@
                 "open_issues": 11,
                 "owner": "go-shiori",
                 "repo": "obelisk",
-                "stars": 322,
+                "stars": 323,
                 "topics": [
                   "archive",
                   "cli",
@@ -1560,7 +1560,7 @@
                 "open_issues": 124,
                 "owner": "jjjake",
                 "repo": "internetarchive",
-                "stars": 1932,
+                "stars": 1933,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -1939,7 +1939,7 @@
                 "id": 1185382010,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T18:06:14Z",
+                "last_commit": "2026-11-08T22:43:20Z",
                 "open_issues": 7,
                 "owner": "commoncrawl",
                 "repo": "warc2zip",
@@ -2305,6 +2305,27 @@
             },
             {
               "node_type": "item",
+              "title": "Jwat",
+              "description": "Libraries for reading/writing/validating WARC/ARC/GZIP files (Java). (Stable)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Java Web Archive Toolkit",
+                "homepage": null,
+                "id": 146783377,
+                "language": "Java",
+                "license": null,
+                "last_commit": "2023-12-13T00:00:44Z",
+                "open_issues": 5,
+                "owner": "netarchivesuite",
+                "repo": "jwat",
+                "stars": 6,
+                "topics": []
+              },
+              "first_seen": "2026-08-28T14:34:03.112Z"
+            },
+            {
+              "node_type": "item",
               "title": "Jwat-Tools",
               "description": "Tools for reading/writing/validating WARC/ARC/GZIP files (Java). (Stable)",
               "children": [],
@@ -2320,27 +2341,6 @@
                 "owner": "netarchivesuite",
                 "repo": "jwat-tools",
                 "stars": 6,
-                "topics": []
-              },
-              "first_seen": "2026-08-28T14:34:03.112Z"
-            },
-            {
-              "node_type": "item",
-              "title": "Jwat",
-              "description": "Libraries for reading/writing/validating WARC/ARC/GZIP files (Java). (Stable)",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Java Web Archive Toolkit",
-                "homepage": null,
-                "id": 146783377,
-                "language": "Java",
-                "license": null,
-                "last_commit": "2023-12-13T00:00:44Z",
-                "open_issues": 5,
-                "owner": "netarchivesuite",
-                "repo": "jwat",
-                "stars": 5,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2542,10 +2542,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-11-06T22:10:24Z",
-                "open_issues": 741,
+                "open_issues": 743,
                 "owner": "flameshot-org",
                 "repo": "flameshot",
-                "stars": 31453,
+                "stars": 31468,
                 "topics": [
                   "capture",
                   "cross-platform",
@@ -2576,7 +2576,7 @@
                 "open_issues": 328,
                 "owner": "jordansissel",
                 "repo": "xdotool",
-                "stars": 3872,
+                "stars": 3874,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:34:03.112Z"
@@ -2640,11 +2640,11 @@
                 "id": 90356372,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-11-08T07:39:39Z",
+                "last_commit": "2026-11-09T00:13:41Z",
                 "open_issues": 160,
                 "owner": "ArchiveBox",
                 "repo": "ArchiveBox",
-                "stars": 28972,
+                "stars": 28983,
                 "topics": [
                   "archivebox",
                   "backups",
@@ -2787,7 +2787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T09:25:43.105Z",
+    "last_updated": "2026-11-09T10:14:34.595Z",
     "original_repository_info": {
       "archived": false,
       "description": "An Awesome List for getting started with web archiving",
@@ -2799,7 +2799,7 @@
       "open_issues": 14,
       "owner": "iipc",
       "repo": "awesome-web-archiving",
-      "stars": 2680,
+      "stars": 2681,
       "topics": [
         "awesome",
         "awesome-list",
